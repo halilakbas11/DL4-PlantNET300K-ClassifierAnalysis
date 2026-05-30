@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tree &amp; Plant Species Classifier</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      background: #f0ece2;
+      color: #2a1f0e;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      background: linear-gradient(135deg, #2c4a1e 0%, #3a5e28 100%);
+      border-bottom: 1px solid #4a6e30;
+      padding: 20px 32px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    header .logo {
+      width: 40px; height: 40px;
+      background: linear-gradient(135deg, #a8c97a, #6b9e3f);
+      border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 22px;
+    }
+
+    header h1 { font-size: 1.4rem; font-weight: 700; color: #f4f0e6; }
+    header p  { font-size: 0.78rem; color: #a0b88a; margin-top: 2px; }
+
+    .badge {
+      margin-left: auto;
+      background: #ffffff22;
+      border: 1px solid #a8c97a;
+      color: #d4eeaa;
+      font-size: 0.7rem;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+    }
+
+    main {
+      flex: 1;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      padding: 28px 32px;
+      max-width: 1100px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    @media (max-width: 720px) {
+      main { grid-template-columns: 1fr; padding: 16px; }
+    }
+
+    .card {
+      background: #faf7f0;
+      border: 1px solid #c8bfa0;
+      border-radius: 14px;
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      box-shadow: 0 2px 8px rgba(80,60,20,0.07);
+    }
+
+    .card h2 {
+      font-size: 0.85rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #7a6a4a;
+    }
+
+    /* ── Upload zone ── */
+    .upload-zone {
+      border: 2px dashed #a0b070;
+      border-radius: 12px;
+      padding: 36px 20px;
+      text-align: center;
+      cursor: pointer;
+      transition: border-color 0.2s, background 0.2s;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      background: #f2eed8;
+    }
+
+    .upload-zone:hover, .upload-zone.drag-over {
+      border-color: #5c7c3a;
+      background: #e4edcc;
+    }
+
+    .upload-zone .icon { font-size: 2.6rem; line-height: 1; }
+    .upload-zone .hint { font-size: 0.85rem; color: #7a6a4a; }
+    .upload-zone .hint span { color: #5c7c3a; font-weight: 600; }
+
+    #fileInput { display: none; }
+
+    .btn-upload {
+      background: linear-gradient(135deg, #5c7c3a, #4a6630);
+      color: #f4f0e6;
+      border: none;
+      border-radius: 8px;
+      padding: 10px 24px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: opacity 0.2s;
+    }
+    .btn-upload:hover { opacity: 0.88; }
+
+    /* ── Preview panel ── */
+    .preview-wrap {
+      flex: 1;
+      border-radius: 10px;
+      overflow: hidden;
+      background: #ede8d8;
+      border: 1px solid #c8bfa0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 260px;
+    }
+
+    #preview {
+      max-width: 100%;
+      max-height: 340px;
+      object-fit: contain;
+      display: none;
+    }
+
+    .preview-placeholder {
+      color: #b0a080;
+      font-size: 0.85rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+    }
+    .preview-placeholder .icon { font-size: 3rem; }
+
+    /* ── Results ── */
+    #results-panel {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .result-item {
+      background: #f2eed8;
+      border: 1px solid #c8bfa0;
+      border-radius: 10px;
+      padding: 14px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      animation: fadeIn 0.35s ease forwards;
+    }
+
+    .result-item.top-1 {
+      border-color: #7aab42;
+      background: #e4edcc;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .result-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .rank-badge {
+      width: 22px; height: 22px;
+      border-radius: 50%;
+      background: #c8bfa0;
+      color: #5a4a2a;
+      font-size: 0.72rem;
+      font-weight: 700;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+    }
+    .result-item.top-1 .rank-badge {
+      background: #5c7c3a;
+      color: #f4f0e6;
+    }
+
+    .species-name {
+      font-style: italic;
+      font-size: 0.92rem;
+      font-weight: 600;
+      color: #2a1f0e;
+      flex: 1;
+      margin-left: 10px;
+    }
+
+    .confidence-pct {
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: #4a6630;
+      min-width: 46px;
+      text-align: right;
+    }
+
+    .btn-images {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      margin-left: 10px;
+      padding: 3px 9px;
+      font-size: 0.68rem;
+      font-weight: 600;
+      color: #5c7c3a;
+      background: transparent;
+      border: 1px solid #a0b070;
+      border-radius: 6px;
+      cursor: pointer;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: background 0.15s, color 0.15s;
+      flex-shrink: 0;
+    }
+    .btn-images:hover {
+      background: #5c7c3a;
+      color: #f4f0e6;
+      border-color: #5c7c3a;
+    }
+    .btn-images svg { flex-shrink: 0; }
+
+    .bar-track {
+      height: 5px;
+      background: #c8bfa0;
+      border-radius: 3px;
+      overflow: hidden;
+    }
+
+    .bar-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #5c7c3a, #9abf5a);
+      border-radius: 3px;
+      transition: width 0.5s ease;
+    }
+
+    /* placeholder & spinner */
+    .placeholder-msg {
+      color: #8a7a5a;
+      font-size: 0.88rem;
+      text-align: center;
+      padding: 40px 0;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
+    .placeholder-msg .icon { font-size: 2.4rem; }
+
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid #c8bfa0;
+      border-top-color: #5c7c3a;
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      margin: 0 auto;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .error-msg {
+      color: #b54a2a;
+      font-size: 0.85rem;
+      text-align: center;
+      padding: 20px 0;
+    }
+
+    /* ── Language toggle ── */
+    .lang-toggle {
+      display: flex;
+      gap: 4px;
+    }
+    .lang-btn {
+      border: 1px solid #a0b070;
+      background: transparent;
+      color: #5c7c3a;
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 3px 10px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-family: inherit;
+      letter-spacing: 0.04em;
+      transition: background 0.15s, color 0.15s;
+    }
+    .lang-btn:hover   { background: #e4edcc; }
+    .lang-btn.active  { background: #5c7c3a; color: #f4f0e6; border-color: #5c7c3a; }
+
+    /* ── Model selector ── */
+    .model-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px;
+      background: #f2eed8;
+      border: 1px solid #c8bfa0;
+      border-radius: 8px;
+    }
+    .model-row label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #7a6a4a;
+      white-space: nowrap;
+    }
+    #modelSelect {
+      flex: 1;
+      border: 1px solid #b8af90;
+      background: #faf7f0;
+      color: #2a1f0e;
+      font-size: 0.82rem;
+      font-family: inherit;
+      padding: 5px 8px;
+      border-radius: 6px;
+      cursor: pointer;
+      appearance: auto;
+    }
+    #modelSelect:focus { outline: none; border-color: #5c7c3a; }
+    .model-loading-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: #c8bfa0;
+      flex-shrink: 0;
+      transition: background 0.3s;
+    }
+    .model-loading-dot.active { background: #5c7c3a; }
+
+    footer {
+      text-align: center;
+      padding: 14px;
+      font-size: 0.72rem;
+      color: #8a7a5a;
+      border-top: 1px solid #c8bfa0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo">🌿</div>
+  <div>
+    <h1>Plant &amp; Tree Species Classifier</h1>
+    <p> Made by Halil Akbas & Karahan Balli and our jester LLM Claude Sonnet 4.6</p>
+  </div>
+  <span class="badge">DLP4</span>
+</header>
+
+<main>
+  <!-- Left: upload + preview -->
+  <div class="card">
+    <h2>Upload Image</h2>
+
+    <div class="upload-zone" id="dropZone">
+      <div class="icon">📁</div>
+      <p class="hint">Drag &amp; drop or <span>click to browse</span></p>
+      <p class="hint" style="font-size:0.75rem">JPG · PNG · WEBP</p>
+      <button class="btn-upload" id="browseBtn">Choose File</button>
+    </div>
+    <input type="file" id="fileInput" accept="image/*" />
+
+    <h2>Preview</h2>
+    <div class="preview-wrap" id="previewWrap">
+      <div class="preview-placeholder" id="previewPlaceholder">
+        <span class="icon">🖼️</span>
+        <span>No image selected</span>
+      </div>
+      <img id="preview" alt="Uploaded image preview" />
+    </div>
+  </div>
+
+  <!-- Right: results -->
+  <div class="card">
+    <div style="display:flex;align-items:center;justify-content:space-between">
+      <h2>Prediction Results</h2>
+      <div class="lang-toggle">
+        <button class="lang-btn active" data-lang="en">EN</button>
+        <button class="lang-btn"        data-lang="tr">TR</button>
+      </div>
+    </div>
+
+    <!-- Model selector -->
+    <div class="model-row">
+      <label for="modelSelect">Model</label>
+      <select id="modelSelect"><option value="">Loading models…</option></select>
+      <div class="model-loading-dot" id="modelDot" title="Model status"></div>
+    </div>
+
+    <div id="results-panel">
+      <div class="placeholder-msg" id="placeholderMsg">
+        <span class="icon">🌱</span>
+        <span>Upload a plant or tree photo<br>to identify its species</span>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>Trained on Pl@ntNet-300K · <a href="https://github.com/plantnet/PlantNet-300K" style="color:inherit">github.com/plantnet/PlantNet-300K</a></footer>
+
+<script>
+  const fileInput          = document.getElementById('fileInput');
+  const browseBtn          = document.getElementById('browseBtn');
+  const dropZone           = document.getElementById('dropZone');
+  const preview            = document.getElementById('preview');
+  const previewPlaceholder = document.getElementById('previewPlaceholder');
+  const resultsPanel       = document.getElementById('results-panel');
+  const modelSelect        = document.getElementById('modelSelect');
+  const modelDot           = document.getElementById('modelDot');
+
+  let currentFile      = null;  // persists across model switches
+  let lastPredictions  = null;  // persists across language switches
+  let lastWarning      = null;
+  let currentLang      = 'en';
+  let namesDict        = {};
+
+  // ── Format arch name for display ─────────────────────────────────────
+  function formatModelName(arch) {
+    return arch
+      .replace(/^resnet(\d+)$/, 'ResNet-$1')
+      .replace(/^densenet(\d+)$/, 'DenseNet-$1')
+      .replace(/^efficientnet_b(\d+)$/, 'EfficientNet-B$1')
+      .replace(/^mobilenet_v(\d)_(\w+)$/, (_, v, s) =>
+        `MobileNet V${v} ${s.charAt(0).toUpperCase() + s.slice(1)}`)
+      .replace(/^vgg(\d+)(_bn)?$/, (_, n, bn) => `VGG-${n}${bn ? ' BN' : ''}`)
+      .replace(/^inception_v(\d+)$/, 'Inception V$1')
+      .replace(/^vit_base_(\w+)$/, (_, s) => `ViT ${s.toLowerCase()}`);
+  }
+
+  // ── Common-name lookup ────────────────────────────────────────────────
+  async function loadNames() {
+    try {
+      const res = await fetch('/names');
+      namesDict = await res.json();
+    } catch { namesDict = {}; }
+  }
+
+  // "Rosa canina L." → lookup key "rosa canina"
+  function lookupKey(latinFull) {
+    const words = latinFull.trim().split(/\s+/);
+    return (words[0] + ' ' + (words[1] || '')).toLowerCase();
+  }
+
+  // Returns "Rosa canina L., Dog Rose" (or just latin if no common name)
+  function displayName(latinFull, lang) {
+    const entry  = namesDict[lookupKey(latinFull)];
+    const common = entry ? (lang === 'tr' ? entry.tr : entry.en) : '';
+    return common ? `${latinFull}, ${common}` : latinFull;
+  }
+
+  // ── Language toggle ───────────────────────────────────────────────────
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      currentLang = btn.dataset.lang;
+      document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      if (lastPredictions) renderResults(lastPredictions, lastWarning);
+    });
+  });
+
+  // ── Populate model dropdown from /models ─────────────────────────────
+  async function loadModelList() {
+    try {
+      const res  = await fetch('/models');
+      const data = await res.json();
+      modelSelect.innerHTML = '';
+      if (!data.models.length) {
+        modelSelect.innerHTML = '<option value="">No models found</option>';
+        return;
+      }
+      data.models.forEach(m => {
+        const opt = document.createElement('option');
+        opt.value       = m.name;
+        opt.textContent = formatModelName(m.name);
+        modelSelect.appendChild(opt);
+      });
+    } catch {
+      modelSelect.innerHTML = '<option value="">Failed to load</option>';
+    }
+  }
+
+  // Re-predict with the new model whenever selection changes
+  modelSelect.addEventListener('change', () => {
+    if (currentFile) runPrediction(currentFile);
+  });
+
+  // ── File handling ─────────────────────────────────────────────────────
+  browseBtn.addEventListener('click', () => fileInput.click());
+  dropZone.addEventListener('click', (e) => { if (e.target !== browseBtn) fileInput.click(); });
+
+  fileInput.addEventListener('change', () => {
+    if (fileInput.files[0]) handleFile(fileInput.files[0]);
+  });
+
+  dropZone.addEventListener('dragover', (e) => { e.preventDefault(); dropZone.classList.add('drag-over'); });
+  dropZone.addEventListener('dragleave', () => dropZone.classList.remove('drag-over'));
+  dropZone.addEventListener('drop', (e) => {
+    e.preventDefault();
+    dropZone.classList.remove('drag-over');
+    if (e.dataTransfer.files[0]) handleFile(e.dataTransfer.files[0]);
+  });
+
+  function handleFile(file) {
+    currentFile = file;
+    const url = URL.createObjectURL(file);
+    preview.src = url;
+    preview.style.display = 'block';
+    previewPlaceholder.style.display = 'none';
+    runPrediction(file);
+  }
+
+  function runPrediction(file) {
+    resultsPanel.innerHTML = `
+      <div style="padding:40px 0;display:flex;flex-direction:column;align-items:center;gap:12px">
+        <div class="spinner"></div>
+        <span style="font-size:0.82rem;color:#6b7280">
+          Classifying with ${formatModelName(modelSelect.value || '…')}
+        </span>
+      </div>`;
+    modelDot.classList.add('active');
+
+    const formData = new FormData();
+    formData.append('image', file);
+    formData.append('model_name', modelSelect.value);
+
+    fetch('/predict', { method: 'POST', body: formData })
+      .then(res => res.json())
+      .then(data => {
+        modelDot.classList.remove('active');
+        if (data.error) { showError(data.error); return; }
+        renderResults(data.predictions, data.warning);
+      })
+      .catch(() => { modelDot.classList.remove('active'); showError('Server error — is app.py running?'); });
+  }
+
+  function renderResults(predictions, warning) {
+    if (!predictions || predictions.length === 0) {
+      showError('No predictions returned.');
+      return;
+    }
+
+    // Persist so language toggle can re-render without a new server request
+    lastPredictions = predictions;
+    lastWarning     = warning;
+
+    const warnHtml = warning
+      ? `<div style="background:#fff8e1;border:1px solid #f0c040;border-radius:8px;padding:10px 14px;font-size:0.82rem;color:#7a5a00;margin-bottom:4px">⚠️ ${warning}</div>`
+      : '';
+
+    const html = warnHtml + predictions.map((p, i) => {
+      const label  = displayName(p.species, currentLang);
+      const query  = encodeURIComponent(p.species);
+      const imgUrl = `https://www.google.com/search?q=${query}&tbm=isch`;
+      return `
+      <div class="result-item ${i === 0 ? 'top-1' : ''}" style="animation-delay:${i * 0.07}s">
+        <div class="result-header">
+          <span class="rank-badge">${p.rank}</span>
+          <span class="species-name">${label}</span>
+          <span class="confidence-pct">${p.confidence}%</span>
+          <a href="${imgUrl}" target="_blank" rel="noopener" class="btn-images">
+            <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
+              <rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/>
+            </svg>
+            Images
+          </a>
+        </div>
+        <div class="bar-track">
+          <div class="bar-fill" style="width:${p.confidence}%"></div>
+        </div>
+      </div>`;
+    }).join('');
+
+    resultsPanel.innerHTML = html;
+  }
+
+  function showError(msg) {
+    resultsPanel.innerHTML = `<div class="error-msg">⚠️ ${msg}</div>`;
+  }
+
+  // Init
+  loadModelList();
+  loadNames();
+</script>
+</body>
+</html>

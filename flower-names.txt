@@ -1,0 +1,1083 @@
+  0  Lactuca virosa              | Bitter Lettuce              | Acı Marul
+  1  Pelargonium capitatum       | Rose-scented Geranium       | Gül Kokulu Sardunya
+  2  Pelargonium graveolens      | Rose Geranium               | Gül Sardunyası
+  3  Cirsium arvense             | Creeping Thistle            | Tarla Devedikenesi
+  4  Cirsium vulgare             | Bull Thistle                | Köy Devedikenesi
+  5  Pelargonium odoratissimum   | Apple Geranium              | Elma Kokulu Sardunya
+  6  Pelargonium peltatum        | Ivy Geranium                | Sarmaşık Sardunyası
+  7  Pelargonium quercifolium    | Oak-leaved Geranium         | Meşe Yapraklı Sardunya
+  8  Pelargonium zonale          | Zonal Geranium              | Zonlu Sardunya
+  9  Mercurialis annua           | Annual Mercury              | Yıllık Civa Otu
+ 10  Phyllanthus tenellus        | Mascarene Leaf-flower       | —
+ 11  Hypericum perforatum        | St. John's Wort             | Sarı Kantaron
+ 12  Egeria densa                | Dense Waterweed             | Yoğun Su Otu
+ 13  Ibicella lutea              | Yellow Devil's Claw         | Sarı Şeytan Pençesi
+ 14  Tradescantia fluminensis    | Small-leaf Spiderwort       | Küçük Yapraklı Örümcek Otu
+ 15  Tradescantia zebrina        | Inch Plant                  | Çizgili Tradeskansiya
+ 16  Lamium amplexicaule         | Henbit                      | Saplı Ballıbaba
+ 17  Lavandula dentata           | French Lavender             | Fransız Lavantası
+ 18  Striga asiatica             | Witchweed                   | Sihirbaz Otu
+ 19  Melilotus albus             | White Sweet Clover          | Beyaz Taş Yoncası
+ 20  Trifolium fragiferum        | Strawberry Clover           | Çilek Yoncası
+ 21  Asystasia gangetica         | Chinese Violet              | Çin Menekşesi
+ 22  Nymphaea nouchali           | Blue Star Water-lily        | Mavi Yıldız Nilüferi
+ 23  Dryopteris aemula           | Hay-scented Buckler-fern    | Saman Kokulu Eğrelti
+ 24  Dryopteris affinis          | Golden-scaled Male Fern     | Altın Pullu Erkek Eğrelti
+ 25  Dryopteris filix-mas        | Male Fern                   | Erkek Eğrelti
+ 26  Nephrolepis cordifolia      | Fishbone Fern               | Balık Kılçığı Eğreltisi
+ 27  Nephrolepis exaltata        | Sword Fern                  | Kılıç Eğreltisi
+ 28  Osmunda regalis             | Royal Fern                  | Kraliyet Eğreltisi
+ 29  Achyranthes aspera          | Prickly Chaff Flower        | Dikenli Saman Çiçeği
+ 30  Lithodora fruticosa         | Shrubby Gromwell            | Çalı Taşkeseni
+ 31  Humulus lupulus             | Common Hop                  | Şerbetçiotu
+ 32  Vaccaria hispanica          | Cow Cockle                  | İnek Darısı
+ 33  Spergularia rubra           | Sand Spurrey                | Kırmızı Kum Otu
+ 34  Moehringia trinervia        | Three-nerved Sandwort       | Üç Damarlı Kum Otu
+ 35  Calendula officinalis       | Pot Marigold                | Ayvacık / Nergiz
+ 36  Calendula stellata          | Star Marigold               | Yıldız Nergiz
+ 37  Carthamus caeruleus         | Blue Safflower              | Mavi Aspir
+ 38  Carthamus lanatus           | Woolly Safflower            | Yünlü Aspir
+ 39  Cirsium monspessulanum      | Southern Marsh Thistle      | Güney Bataklık Devedikenesi
+ 40  Helminthotheca echioides    | Bristly Oxtongue            | Dikenli Öküzdili
+ 41  Hyoseris radiata            | Capeweed                    | —
+ 42  Lactuca muralis             | Wall Lettuce                | Duvar Marulu
+ 43  Lactuca saligna             | Least Lettuce               | En Küçük Marul
+ 44  Lactuca tenerrima           | —                           | —
+ 45  Limbarda crithmoides        | Golden Samphire             | Altın Kayakoruk
+ 46  Sedum acre                  | Biting Stonecrop            | Acı Damkoruğu
+ 47  Sedum album                 | White Stonecrop             | Beyaz Damkoruğu
+ 48  Sedum amplexicaule          | Tasteless Stonecrop         | —
+ 49  Sedum andegavense           | Anjou Stonecrop             | —
+ 50  Sedum brevifolium           | Short-leaved Stonecrop      | Kısa Yapraklı Damkoruğu
+ 51  Sedum caeruleum             | Blue Stonecrop              | Mavi Damkoruğu
+ 52  Sedum caespitosum           | Tufted Stonecrop            | —
+ 53  Sedum cepaea                | Pink Stonecrop              | —
+ 54  Sedum dasyphyllum           | Corsican Stonecrop          | Korsika Damkoruğu
+ 55  Sedum forsterianum          | Rock Stonecrop              | Kaya Damkoruğu
+ 56  Sedum hirsutum              | Hairy Stonecrop             | Tüylü Damkoruğu
+ 57  Sedum litoreum              | Shore Stonecrop             | Kıyı Damkoruğu
+ 58  Sedum multiceps             | Algerian Stonecrop          | Cezayir Damkoruğu
+ 59  Sedum rubens                | Reddish Stonecrop           | Kırmızımsı Damkoruğu
+ 60  Sedum sediforme             | Pale Stonecrop              | Soluk Damkoruğu
+ 61  Alliaria petiolata          | Garlic Mustard              | Sarımsaklı Hardal
+ 62  Boscia angustifolia         | Narrow-leaved Boscia        | —
+ 63  Fibigia clypeata            | Shield-pod                  | Kalkan Bakla
+ 64  Maerua angolensis           | Angolan Maerua              | —
+ 65  Acalypha virginica          | Virginia Copperleaf         | Virginia Bakır Yaprağı
+ 66  Mercurialis perennis        | Dog's Mercury               | Çok Yıllık Civa Otu
+ 67  Phyllanthus reticulatus     | Reticulate Leaf-flower      | —
+ 68  Hypericum androsaemum       | Tutsan                      | Peri Otu
+ 69  Hypericum australe          | Southern St. John's Wort    | Güney Kantaronu
+ 70  Hypericum canariense        | Canary Islands St. Jw.      | Kanarya Adaları Kantaronu
+ 71  Hypericum empetrifolium     | Heath St. John's Wort       | —
+ 72  Hypericum hircinum          | Goat St. John's Wort        | Keçi Kantaronu
+ 73  Hypericum hirsutum          | Hairy St. John's Wort       | Tüylü Kantaron
+ 74  Hypericum humifusum         | Trailing St. John's Wort    | Yatık Kantaron
+ 75  Hypericum linariifolium     | Flax-leaved St. Jw.         | Keten Yapraklı Kantaron
+ 76  Hypericum montanum          | Mountain St. John's Wort    | Dağ Kantaronu
+ 77  Hypericum perfoliatum       | Perfoliate St. John's Wort  | Saplı Kantaron
+ 78  Hypericum tetrapterum       | Square-stalked St. Jw.      | Dört Kanatlı Kantaron
+ 79  Hypericum tomentosum        | Woolly St. John's Wort      | Yünlü Kantaron
+ 80  Lamium bifidum              | Split Deadnettle            | —
+ 81  Lamium flexuosum            | Flexible Deadnettle         | —
+ 82  Lamium garganicum           | Large Red Deadnettle        | Büyük Kırmızı Ballıbaba
+ 83  Lamium hybridum             | Cut-leaved Deadnettle       | Parçalı Yapraklı Ballıbaba
+ 84  Lamium purpureum            | Red Deadnettle              | Kırmızı Ballıbaba
+ 85  Lavandula canariensis       | Canary Islands Lavender     | Kanarya Adaları Lavantası
+ 86  Lavandula minutolii         | Minuto's Lavender           | —
+ 87  Lavandula multifida         | Fernleaf Lavender           | Eğrelti Yapraklı Lavanta
+ 88  Lavandula stoechas          | French Lavender             | Karabaş Lavantası
+ 89  Acacia mellifera            | Black-thorned Acacia        | Siyah Dikenli Akasya
+ 90  Acacia seyal                | Whistling Thorn             | Islıklı Akasya
+ 91  Acacia tortilis             | Umbrella Thorn              | Şemsiye Dikeni Akasya
+ 92  Galega officinalis          | Goat's Rue                  | Keçi Sedefi
+ 93  Lupinus cosentinii          | Rough Lupin                 | Kaba Acı Bakla
+ 94  Lupinus micranthus          | Hairy Lupin                 | Tüylü Acı Bakla
+ 95  Melilotus italicus          | Italian Melilot             | İtalyan Taş Yoncası
+ 96  Melilotus sulcatus          | Furrowed Melilot            | Oluklu Taş Yoncası
+ 97  Trifolium angustifolium     | Narrow-leaved Clover        | Dar Yapraklı Yonca
+ 98  Trifolium arvense           | Hare's-foot Clover          | Tavşan Ayağı Yoncası
+ 99  Trifolium aureum            | Golden Clover               | Altın Yonca
+100  Trifolium campestre         | Hop Trefoil                 | Şerbetçiotu Yoncası
+101  Trifolium cherleri          | Cherler's Clover            | —
+102  Trifolium hirtum            | Rose Clover                 | Gül Yoncası
+103  Trifolium hybridum          | Alsike Clover               | Melez Yonca
+104  Trifolium incarnatum        | Crimson Clover              | Kırmızı Yonca
+105  Trifolium lappaceum         | Bur Clover                  | Yapışkan Yonca
+106  Trifolium michelianum       | Balansa Clover              | Balansa Yoncası
+107  Trifolium micranthum        | Slender Trefoil             | İnce Yonca
+108  Trifolium montanum          | Mountain Clover             | Dağ Yoncası
+109  Trifolium ochroleucon       | Sulphur Clover              | Kükürt Yoncası
+110  Trifolium pannonicum        | Hungarian Clover            | Macar Yoncası
+111  Trifolium patens            | Spreading Clover            | Yayılan Yonca
+112  Trifolium pratense          | Red Clover                  | Çayır Yoncası
+113  Trifolium purpureum         | Purple Clover               | Mor Yonca
+114  Trifolium resupinatum       | Reversed Clover             | Tersine Yonca
+115  Trifolium scabrum           | Rough Clover                | Kaba Yonca
+116  Trifolium spumosum          | Bladder Clover              | Kabarcıklı Yonca
+117  Trifolium squamosum         | Sea Clover                  | Deniz Yoncası
+118  Trifolium stellatum         | Star Clover                 | Yıldız Yonca
+119  Trifolium striatum          | Knotted Clover              | Düğümlü Yonca
+120  Trifolium subterraneum      | Subterranean Clover         | Yer Altı Yoncası
+121  Trifolium tomentosum        | Woolly Clover               | Yünlü Yonca
+122  Punica granatum             | Pomegranate                 | Nar
+123  Alcea rosea                 | Common Hollyhock            | Gülhatmi / Hatmi
+124  Althaea cannabina           | Hemp-leaved Hollyhock       | Kendir Yapraklı Hatmi
+125  Althaea officinalis         | Marsh Mallow                | Ebegümeci
+126  Nymphaea alba               | White Water Lily            | Beyaz Nilüfer
+127  Hunnemannia fumariifolia    | Mexican Tulip Poppy         | Meksika Lale Geliniği
+128  Papaver atlanticum          | Atlas Poppy                 | Atlas Geliniği
+129  Papaver rupifragum          | Spanish Poppy               | İspanyol Geliniği
+130  Goniolimon tataricum        | Tatarian Sea Lavender       | Tatar Lavantası
+131  Adonis aestivalis           | Summer Pheasant's Eye       | Yaz Pırnallısı
+132  Adonis annua                | Pheasant's Eye              | Kırmızı Pırnallı
+133  Adonis flammea              | Flame Pheasant's Eye        | Alev Pırnallı
+134  Adonis microcarpa           | Small-fruited Pheasant's Eye| Küçük Meyveli Pırnallı
+135  Anemone coronaria           | Crown Anemone               | Taç Anemon
+136  Anemone palmata             | Palmate Anemone             | Palmiye Yapraklı Anemon
+137  Oldenlandia corymbosa       | Flat-topped Mille Graines   | —
+138  Hyoscyamus albus            | White Henbane               | Beyaz Bant Otu
+139  Hyoscyamus niger            | Black Henbane               | Bant Otu / Karabant
+140  Daphne gnidium              | Flax-leaved Daphne          | Keten Yapraklı Defne
+141  Daphne laureola             | Spurge Laurel               | Defne Yapraklı Sütleğen
+142  Daphne oleoides             | Olive-leaved Daphne         | Zeytin Yapraklı Defne
+143  Berula erecta               | Lesser Water-parsnip        | Küçük Su Çeğini
+144  Chaerophyllum temulum       | Rough Chervil               | Kaba Frenk Maydanozu
+145  Daucus muricatus            | Prickly Carrot              | Dikenli Havuç
+146  Meum athamanticum           | Meu                         | Dağ Rezene
+147  Thapsia garganica           | Deadly Carrot               | Zehirli Havuç
+148  Thapsia villosa             | Hairy Thapsia               | Tüylü Thapsia
+149  Centranthus calcitrapae     | Star Valerian               | Yıldız Kediotu
+150  Fedia cornucopiae           | African Valerian            | Afrika Kediotu
+151  Pancratium canariense       | Canary Sea Daffodil         | Kanarya Kum Zambağı
+152  Pancratium maritimum        | Sea Daffodil                | Kum Zambağı
+153  Anthericum liliago          | St. Bernard's Lily          | Aziz Bernard Zambağı
+154  Butomus umbellatus          | Flowering Rush              | Çiçekli Saz
+155  Danth
+
+155  Danthonia decumbens         | Heath Grass                 | Funda Çimi
+156  Leersia oryzoides           | Rice Cutgrass               | Pirinç Otu
+157  Phalaris coerulescens       | —                           | —
+158  Oncostema elongata          | —                           | —
+159  Oncostema peruviana         | Portuguese Squill           | Portekiz Sümbülü
+160  Elodea canadensis           | Canadian Pondweed           | Kanada Su Bitkisi
+161  Neotinea maculata           | Dense-flowered Orchid       | Yoğun Çiçekli Orkide
+162  Ophrys apifera              | Bee Orchid                  | Arı Orkidesi
+163  Ophrys bombyliflora         | Bumble Bee Orchid           | Yaban Arısı Orkidesi
+164  Ophrys fusca                | Brown Bee Orchid            | Kahverengi Arı Orkidesi
+165  Ophrys lutea                | Yellow Bee Orchid           | Sarı Arı Orkidesi
+166  Ophrys scolopax             | Woodcock Orchid             | Çulluk Orkidesi
+167  Ophrys speculum             | Mirror Orchid               | Ayna Orkidesi
+168  Ophrys tenthredinifera      | Sawfly Orchid               | Testere Sineği Orkidesi
+169  Groenlandia densa           | Opposite-leaved Pondweed    | Karşılıklı Yapraklı Su Otu
+170  Myosoton aquaticum          | Water Chickweed             | Su Tavuk Otu
+171  Cirsium palustre            | Marsh Thistle               | Bataklık Devedikenesi
+172  Lamium galeobdolon          | Yellow Archangel            | Sarı Archangel
+173  Lavandula angustifolia      | Common Lavender             | Tıbbi Lavanta
+174  Casuarina cunninghamiana    | River She-oak               | Nehir Kazuarinası
+175  Trifolium rubens            | Red Feather Clover          | Kırmızı Tüy Yoncası
+176  Falcaria vulgaris           | Longleaf                    | Uzun Yapraklı Falkarya
+177  Hypericum triquetrifolium   | Round-leaved St. Jw.        | —
+178  Wigandia caracasana         | Caracas Wigandia            | —
+179  Nymphaea lotus              | White Lotus                 | Beyaz Lotus
+180  Sedum villosum              | Hairy Stonecrop             | Tüylü Damkoruğu
+181  Epipactis helleborine       | Broad-leaved Helleborine    | Geniş Yapraklı Dağ Orkidesi
+182  Thesium humifusum           | Bastard Toadflax            | —
+183  Acacia etbaica              | Etbai Acacia                | —
+184  Centranthus angustifolius   | Narrow-leaved Valerian      | Dar Yapraklı Kediotu
+185  Centranthus lecoqii         | Lecoq's Valerian            | —
+186  Sedum anglicum              | English Stonecrop           | İngiliz Damkoruğu
+187  Sedum rupestre              | Rock Stonecrop              | Kaya Damkoruğu
+188  Ophrys insectifera          | Fly Orchid                  | Sinek Orkidesi
+189  Freesia refracta            | Freesia                     | Frezya
+190  Diatelia tuberaria          | Spotted Rock-rose           | Benekli Gün Çiçeği
+191  Tradescantia pallida        | Purple Heart                | Mor Yürek Otu
+192  Cenchrus longispinus        | Longspine Sandbur           | Uzun Dikenli Kum Çiti
+193  Schefflera actinophylla     | Queensland Umbrella Tree    | Queensland Şemsiye Ağacı
+194  Cenchrus clandestinus       | Kikuyu Grass                | Kikuyu Çimi
+195  Cenchrus purpureus          | Napier Grass                | Napier Çimi / Fil Otu
+196  Cenchrus setaceus           | Crimson Fountain Grass      | Mor Çeşme Otu
+197  Anemone hortensis           | Broad-leaved Anemone        | Geniş Yapraklı Anemon
+198  Tradescantia cerinthoides   | —                           | —
+199  Papaver argemone            | Prickly Poppy               | Dikenli Gelincik
+200  Papaver hybridum            | Rough Poppy                 | Kaba Gelincik
+201  Papaver rhoeas              | Common Poppy                | Gelincik
+202  Papaver dubium              | Long-headed Poppy           | Uzun Başlı Gelincik
+203  Papaver somniferum          | Opium Poppy                 | Haşhaş
+204  Daucus carota               | Wild Carrot                 | Yabani Havuç
+205  Smilax aspera               | Mediterranean Smilax        | Akdeniz Gıcırı
+206  Aizoon canariense           | —                           | —
+207  Zannichellia palustris      | Horned Pondweed             | Boynuzlu Su Otu
+208  Secale cereale              | Rye                         | Çavdar
+209  Cenchrus ciliaris           | Buffel Grass                | Buffel Çimi
+210  Cenchrus echinatus          | Southern Sandbur            | Güney Kum Çiti
+211  Phalaris aquatica           | Bulbous Canary-grass        | Yumrulu Kanarya Otu
+212  Phalaris arundinacea        | Reed Canary-grass           | Saz Kanarya Otu
+213  Phalaris canariensis        | Canary Grass                | Kanarya Otu
+214  Phalaris minor              | Lesser Canary Grass         | Küçük Kanarya Otu
+215  Phalaris paradoxa           | Paradox Canary Grass        | —
+216  Sedum hispanicum            | Spanish Stonecrop           | İspanyol Damkoruğu
+217  Crotalaria juncea           | Sunn Hemp                   | Hint Keneviri
+218  Lupinus angustifolius       | Narrow-leaved Lupin         | Dar Yapraklı Acı Bakla
+219  Lupinus luteus              | Yellow Lupin                | Sarı Acı Bakla
+220  Lupinus pilosus             | Blue Lupin                  | Tüylü Acı Bakla
+221  Lupinus albus               | White Lupin                 | Beyaz Acı Bakla
+222  Trifolium alexandrinum      | Egyptian Clover             | İskenderiye Yoncası
+223  Trifolium dubium            | Lesser Trefoil              | Küçük Yonca
+224  Trifolium glomeratum        | Clustered Clover            | Küme Yonca
+225  Trifolium nigrescens        | Ball Clover                 | Top Yonca
+226  Trifolium repens            | White Clover                | Ak Yonca
+227  Dalbergia melanoxylon       | African Blackwood           | Afrika Pelisengağacı
+228  Melilotus indicus           | Indian Sweetclover          | Hint Taş Yoncası
+229  Melilotus officinalis       | Yellow Sweet Clover         | Sarı Taş Yoncası
+230  Acacia dealbata             | Silver Wattle               | Gümüş Akasya
+231  Acacia longifolia           | Long-leaved Wattle          | Uzun Yapraklı Akasya
+232  Acacia mearnsii             | Black Wattle                | Kara Akasya
+233  Acacia pycnantha            | Golden Wattle               | Altın Akasya
+234  Acacia retinodes            | Swamp Wattle                | Bataklık Akasyası
+235  Barbarea verna              | American Yellow-rocket      | Amerikan Sarı Roketi
+236  Barbarea intermedia         | Medium-flowered Rocket      | —
+237  Myosurus minimus            | Mousetail                   | Fare Kuyruğu
+238  Fragaria vesca              | Wild Strawberry             | Yabani Çilek
+239  Duchesnea indica            | Indian Strawberry           | Yalancı Çilek
+240  Centranthus ruber           | Red Valerian                | Kırmızı Kediotu
+241  Guizotia abyssinica         | Niger Seed                  | Habeş Susam
+242  Tagetes minuta              | Muster-John-Henry           | Mini Kadife Çiçeği
+243  Tagetes patula              | French Marigold             | Fransız Kadife Çiçeği
+244  Calendula arvensis          | Field Marigold              | Tarla Nergizi
+245  Lapsana communis            | Nipplewort                  | Meme Otu
+246  Carthamus tinctorius        | Safflower                   | Aspir
+247  Lactuca sativa              | Garden Lettuce              | Marul
+248  Lactuca serriola            | Prickly Lettuce             | Dikenli Marul
+249  Arthraxon hispidus          | Small Carpetgrass           | Küçük Halı Çimi
+250  Microchloa kunthii          | —                           | —
+251  Harpachne schimperi         | —                           | —
+252  Cedrela odorata             | Spanish Cedar               | İspanyol Sediri
+253  Aeschynomene americana      | American Jointvetch         | Amerikan Eklemli Burcu
+254  Prosopis alba               | White Carob                 | Beyaz Harnup
+255  Prosopis juliflora          | Mesquite                    | Mezkit
+256  Crotalaria spectabilis      | Showy Rattlebox             | Gösterişli Çıngırak Otu
+257  Crotalaria chrysochlora     | —                           | —
+258  Crotalaria deflersii        | —                           | —
+259  Crotalaria polysperma       | —                           | —
+260  Crotalaria uguenensis       | —                           | —
+261  Crotalaria verrucosa        | Blue Rattlebox              | Mavi Çıngırak Otu
+262  Lupinus perennis            | Sundial Lupine              | Güneş Saatli Acı Bakla
+263  Lupinus polyphyllus         | Large-leaved Lupin          | Büyük Yapraklı Acı Bakla
+264  Dalbergia latifolia         | Indian Rosewood             | Hint Gülağacı
+265  Cordyla africana            | Wild Mango                  | Yabani Mango
+266  Acacia xanthophloea         | Fever Tree                  | Ateş Ağacı
+267  Acacia drepanolobium        | Whistling Thorn             | Islıklı Diken
+268  Acacia hockii               | Hock's Thorn                | —
+269  Acacia angustissima         | Prairie Acacia              | Çayır Akasyası
+270  Gomphocarpus integer        | —                           | —
+271  Trachelospermum jasminoides | Star Jasmine                | Yıldız Yasemini
+272  Tradescantia spathacea      | Moses-in-the-cradle         | Beşikteki Musa
+273  Gymnosporia putterlickioides| —                           | —
+274  Conostomium kenyense        | —                           | —
+275  Conostomium quadrangulare   | —                           | —
+276  Mussaenda frondosa          | Mussaenda                   | —
+277  Mussaenda erythrophylla     | Ashanti Blood               | Kırmızı Mussaenda
+278  Morinda citrifolia          | Noni                        | Noni
+279  Pilocarpus racemosus        | Jaborandi                   | Jaborandi
+280  Pelargonium alchemilloides  | Lady's-mantle Geranium      | Kadın Mantolu Sardunya
+281  Pelargonium quinquelobatum  | Five-lobed Geranium         | Beş Loblu Sardunya
+282  Pelargonium glechomoides    | —                           | —
+283  Gynura aurantiaca           | Purple Velvet Plant         | Mor Kadife Bitkisi
+284  Gynura procumbens           | Longevity Spinach           | Uzun Ömür Ispaanağı
+285  Tagetes erecta              | African Marigold            | Afrika Kadife Çiçeği
+286  Aspilia mossambicensis      | —                           | —
+287  Aspilia pluriseta           | —                           | —
+288  Schkuhria pinnata           | Dwarf Mexican Marigold      | Minyatür Meksika Kadifesi
+289  Montanoa hibiscifolia       | Daisy Tree                  | Papatya Ağacı
+290  Acalypha crenata            | —                           | —
+291  Acalypha hispida            | Chenille Plant              | Kadife Otu
+292  Phyllanthus fischeri        | —                           | —
+293  Phyllanthus suffrutescens   | —                           | —
+294  Phyllanthus acidus          | Otaheite Gooseberry         | Bektaşiüzümü Çalısı
+295  Phyllanthus amarus          | Stonebreaker                | Taş Kıran
+296  Triadica sebifera           | Chinese Tallow Tree         | Çin Donyağı Ağacı
+297  Petiveria alliacea          | Guinea Hen Weed             | —
+298  Peperomia pellucida         | Shiny Bush                  | Parlak Çalı
+299  Guaiacum officinale         | Lignum Vitae                | Yaşam Ağacı
+300  Hypericum annulatum         | —                           | —
+301  Mussaenda philippica        | Philippine Mussaenda        | Filipin Mussaendası
+302  Wigandia urens              | Stinging Wigandia           | Yakıcı Wigandia
+303  Boscia mossambicensis       | —                           | —
+304  Boscia coriacea             | Leather-leaved Boscia       | —
+305  Mecardonia procumbens       | —                           | —
+306  Browallia americana         | Amethyst Flower             | Ametist Çiçeği
+307  Acacia mangium              | Mangium Wattle              | Mangium Akasyası
+308  Casuarina equisetifolia     | Coastal She-oak             | Kıyı Kazuarinası
+309  Aristea abyssinica          | Abyssinian Aristea          | —
+310  Aristea ecklonii            | Blue Stars                  | Mavi Yıldızlar
+311  Erianthemum dregei          | —                           | —
+312  Cucurbita ficifolia         | Chilacayote                 | —
+313  Cucurbita pepo              | Pumpkin                     | Kabak
+314  Luffa acutangula            | Angled Luffa                | Köşeli Lif Kabağı
+315  Lagenaria siceraria         | Bottle Gourd                | Şişe Kabağı
+316  Lagenaria sphaerica         | Wild Bottle Gourd           | Yabani Şişe Kabağı
+317  Asystasia riparia           | —                           | —
+318  Barringtonia asiatica       | Fish Poison Tree            | Balık Zehiri Ağacı
+319  Couroupita guianensis       | Cannonball Tree             | Top Ağacı
+320  Asystasia charmian          | —                           | —
+321  Raphia farinifera           | Raffia Palm                 | Rafya Palmiyesi
+322  Zamioculcas zamiifolia      | ZZ Plant                    | ZZ Bitkisi
+323  Kniphofia linearifolia      | Red Hot Poker               | Kızıl Ateş Mızrağı
+324  Smilax anceps               | —                           | —
+325  Vanilla planifolia          | Vanilla                     | Vanilya
+326  Ansellia africana           | African Orchid              | Afrika Orkidesi
+327  Hypericum balearicum        | Balearic St. John's Wort    | Balear Kantaronu
+328  Ophrys druentica            | —                           | —
+329  Macrosyringion longiflorum  | Long-flowered Cow-wheat     | —
+330  Pyracantha koidzumii        | Formosa Firethorn           | Formoza Ateş Dikeni
+331  Lactuca plumieri            | Plumier's Lettuce           | —
+332  Aizoanthemum hispanicum     | Ice Plant                   | Buz Bitkisi
+333  Phedimus aizoon             | Aizoon Stonecrop            | —
+334  Phedimus spurius            | Caucasian Stonecrop         | Kafkas Damkoruğu
+335  Nephrolepis cordifolia      | Fishbone Fern               | Balık Kılçığı Eğreltisi
+336  Cereus jamacaru             | Mandacaru Cactus            | Mandacaru Kaktüsü
+337  Sedum pachyphyllum          | Jelly Bean Plant            | Jöle Çekirdeği Bitkisi
+338  Sedum dendroideum           | Tree Sedum                  | Ağaç Damkoruğu
+339  Liriodendron chinensis      | Chinese Tulip Tree          | Çin Lale Ağacı
+340  Atocion rupestre            | Rock Catchfly               | Kaya Yapışkan Otu
+341  Tagetes tenuifolia          | Signet Marigold             | Mühür Kadife Çiçeği
+342  Aegopodium podagraria       | Ground Elder                | Yer Muzulu
+343  Acacia melanoxylon          | Blackwood                   | Kara Ahşap Akasya
+344  Acacia saligna              | Blue-leaved Wattle          | Mavi Yapraklı Akasya
+345  Patzkea paniculata          | —                           | —
+346  Perovskia abrotanoides      | Afghan Sage                 | Afgan Adaçayı
+347  Ophrys occidentalis         | Western Ophrys              | Batı Orkidesi
+348  Erechtites hieraciifolius   | American Burnweed           | —
+349  Cenchrus longisetus         | Feathertop Grass            | Tüylü Tepe Çimi
+350  Nothofagus obliqua          | Roble Beech                 | Şili Kayını
+351  Calendula arvensis          | Field Marigold              | Tarla Nergizi
+352  Carthamus carduncellus      | Blue Safflower              | Mavi Aspir
+353  Carthamus mitissimus        | —                           | —
+354  Chaerophyllum aureum        | Golden Chervil              | Altın Frenk Maydanozu
+355  Chaerophyllum hirsutum      | Hairy Chervil               | Tüylü Frenk Maydanozu
+356  Chaerophyllum villarsii     | Villar's Chervil            | —
+357  Cirsium alsophilum          | Forest Thistle              | Orman Devedikenesi
+358  Cirsium canum               | Grey Thistle                | Gri Devedikeni
+359  Cirsium dissectum           | Meadow Thistle              | Çayır Devedikenesi
+360  Cirsium eriophorum          | Woolly Thistle              | Yünlü Devedikeni
+361  Cirsium erisithales         | Sticky Thistle              | Yapışkan Devedikeni
+362  Cirsium ferox               | Fierce Thistle              | Yırtıcı Devedikeni
+363  Cirsium filipendulum        | —                           | —
+364  Cirsium glabrum             | Smooth Thistle              | Düz Devedikeni
+365  Cirsium heterophyllum       | Melancholy Thistle          | Hüzünlü Devedikeni
+366  Cirsium morisianum          | Moris's Thistle             | —
+367  Cirsium oleraceum           | Cabbage Thistle             | Lahana Devedikenesi
+368  Cirsium rivulare            | Brook Thistle               | Dere Devedikenesi
+369  Cirsium tuberosum           | Tuberous Thistle            | Yumrulu Devedikeni
+370  Collomia grandiflora        | Large-flowered Collomia     | Büyük Çiçekli Kollomsiya
+371  Cucurbita maxima            | Giant Pumpkin               | Dev Balkabağı
+372  Cymbalaria aequitriloba     | —                           | —
+373  Cymbalaria hepaticifolia    | Corsican Toadflax           | Korsika Koyungözü
+374  Cytinus hypocistis          | Cytinus                     | —
+375  Cytinus ruber               | Red Cytinus                 | Kırmızı Sitinus
+376  Daphne alpina               | Alpine Daphne               | Alpin Defnesi
+377  Daphne cneorum              | Garland Flower              | Çelenk Çiçeği
+378  Daphne mezereum             | Mezereon                    | Ateş Çiçeği
+379  Daphne striata              | Striped Daphne              | Çizgili Defne
+380  Dorotheanthus bellidiformis | Livingstone Daisy           | Livingston Papatyası
+381  Dryas octopetala            | Mountain Avens              | Dağ Armut Çiçeği
+382  Dryopteris carthusiana      | Narrow Buckler-fern         | Dar Eğrelti
+383  Dryopteris cristata         | Crested Buckler-fern        | Tepeli Eğrelti
+384  Dryopteris dilatata         | Broad Buckler-fern          | Geniş Eğrelti
+385  Dryopteris expansa          | Northern Buckler-fern       | Kuzey Eğreltisi
+386  Dryopteris villarii         | Rigid Buckler-fern          | Sert Eğrelti
+387  Empetrum nigrum             | Crowberry                   | Kartal Mersini
+388  Epipactis atrorubens        | Dark Red Helleborine        | Koyu Kırmızı Dağ Orkidesi
+389  Epipactis leptochila        | Narrow-lipped Helleborine   | Dar Dudaklı Dağ Orkidesi
+390  Epipactis microphylla       | Small-leaved Helleborine    | Küçük Yapraklı Dağ Orkidesi
+391  Epipactis muelleri          | Mueller's Helleborine       | —
+392  Epipactis palustris         | Marsh Helleborine           | Bataklık Dağ Orkidesi
+393  Epipactis phyllanthes       | Green-flowered Helleborine  | Yeşil Çiçekli Dağ Orkidesi
+394  Epipactis purpurata         | Violet Helleborine          | Mor Dağ Orkidesi
+395  Erucastrum gallicum         | Dog Mustard                 | Köpek Hardalı
+396  Erucastrum incanum          | Hoary Erucastrum            | —
+397  Erucastrum nasturtiifolium  | Rocket-leaved Erucastrum    | —
+398  Fedia graciliflora          | —                           | —
+399  Fragaria moschata           | Hautbois Strawberry         | Misk Çileği
+400  Freesia x hybrida           | Hybrid Freesia              | Melez Frezya
+401  Galega orientalis           | Eastern Goat's Rue          | Doğu Keçi Sedefi
+402  Alliaria petiolata          | Garlic Mustard              | Sarımsaklı Hardal
+403  Geropogon hybridus          | Hybrid Goat's Beard         | Melez Keçi Sakalı
+404  Gomphocarpus fruticosus     | Narrowleaf Cottonbush       | Dar Yapraklı Pamuk Çalısı
+405  Gomphocarpus physocarpus    | Balloon Milkweed            | Balon İpek Otu
+406  Guizotia abyssinica         | Niger Seed                  | Habeş Susam
+407  Hebe andersonii             | Anderson's Hebe             | —
+408  Hebe brachysiphon           | Short-tubed Hebe            | —
+409  Hebe ochracea               | —                           | —
+410  Hebe salicifolia            | Willow-leaved Hebe          | Söğüt Yapraklı Hebe
+411  Helicodiceros muscivorus    | Dead Horse Arum             | Ölü At Arumu
+412  Hippophae rhamnoides        | Sea Buckthorn               | Deniz Cehri
+413  Hypericum calycinum         | Rose of Sharon              | Şaron Gülü
+414  Hypericum coris             | Heath St. John's Wort       | —
+415  Hypericum elodes            | Marsh St. John's Wort       | Bataklık Kantaronu
+416  Hypericum x inodorum        | —                           | —
+417  Hypericum maculatum         | Imperforate St. Jw.         | Lekeli Kantaron
+418  Hypericum nummularium       | Round-leaved St. Jw.        | Yuvarlak Yapraklı Kantaron
+419  Hypericum pulchrum          | Slender St. John's Wort     | İnce Kantaron
+420  Hypericum richeri           | Richer's St. John's Wort    | —
+421  Dierama pulcherrimum        | Angel's Fishing Rod         | Melek Olta Çubuğu
+422  Iva xanthiifolia            | Marsh Elder                 | Bataklık Mürver
+423  Kniphofia uvaria            | Red Hot Poker               | Kızıl Ateş Mızrağı
+424  Lactuca alpina              | Alpine Lettuce              | Alp Marulu
+425  Lactuca macrophylla         | Large-leaved Lettuce        | Büyük Yapraklı Marul
+426  Lactuca viminea             | Pliant Lettuce              | —
+427  Lamium album                | White Deadnettle            | Beyaz Ballıbaba
+428  Lamium maculatum            | Spotted Deadnettle          | Benekli Ballıbaba
+429  Lathraea clandestina        | Purple Toothwort            | Mor Diş Otu
+430  Lathraea squamaria          | Toothwort                   | Diş Otu
+431  Lavandula x intermedia      | Lavandin                    | Lavandin
+432  Lavandula latifolia         | Spike Lavender              | Sivri Lavanta
+433  Limnanthes douglasii        | Meadowfoam                  | Çayır Köpüğü
+434  Liriodendron tulipifera     | Tulip Tree                  | Lale Ağacı
+435  Lupinus arboreus            | Tree Lupin                  | Ağaç Acı Bakla
+436  Lupinus x regalis           | —                           | —
+437  Maianthemum bifolium        | May Lily                    | Mayıs Zambağı
+438  Melilotus altissimus        | Tall Melilot                | Uzun Boylu Taş Yoncası
+439  Melilotus officinalis       | Yellow Sweet Clover         | Sarı Taş Yoncası
+440  Melilotus spicatus          | Spiked Melilot              | Başaklı Taş Yoncası
+441  Mercurialis ambigua         | —                           | —
+442  Mercurialis tomentosa       | Woolly Mercury              | Yünlü Civa Otu
+443  Moehringia ciliata          | Ciliate Sandwort            | Kirpikli Kum Otu
+444  Moehringia muscosa          | Mossy Sandwort              | Yosunlu Kum Otu
+445  Moehringia pentandra        | Five-stamened Sandwort      | Beş Erkekli Kum Otu
+446  Narthecium ossifragum       | Bog Asphodel                | Bataklık Asfodeli
+447  Neotinea lactea             | Milky Orchid                | Sütlü Orkide
+448  Neotinea ustulata           | Burnt Orchid                | Yanmış Orkide
+449  Noccaea caerulescens        | Alpine Pennycress           | Alp Akça Otu
+450  Noccaea montana             | Mountain Pennycress         | Dağ Akça Otu
+451  Noccaea rotundifolia        | Round-leaved Pennycress     | Yuvarlak Yapraklı Akça Otu
+452  Nymphaea candida            | Pygmy Waterlily             | Cüce Nilüfer
+453  Nymphoides peltata          | Fringed Waterlily           | Saçaklı Nilüfer
+454  Ophrys arachnitiformis      | False Spider Orchid         | Sahte Örümcek Orkidesi
+455  Ophrys aranifera            | Early Spider Orchid         | Erken Örümcek Orkidesi
+456  Ophrys aveyronensis         | —                           | —
+457  Ophrys aymoninii            | —                           | —
+458  Ophrys bertolonii           | Bertoloni's Bee Orchid      | Bertoloni Arı Orkidesi
+459  Ophrys catalaunica          | Catalan Ophrys              | Katalan Orkidesi
+460  Ophrys exaltata             | Tall Ophrys                 | Uzun Boylu Orkide
+461  Ophrys fuciflora            | Late Spider Orchid          | Geç Örümcek Orkidesi
+462  Ophrys incubacea            | Black Spider Orchid         | Siyah Örümcek Orkidesi
+463  Ophrys lupercalis           | Early Bee Orchid            | Erken Arı Orkidesi
+464  Ophrys morisii              | —                           | —
+465  Ophrys passionis            | —                           | —
+466  Ophrys provincialis         | Provençal Ophrys            | Provans Orkidesi
+467  Ophrys saratoi              | —                           | —
+468  Ophrys sulcata              | —                           | —
+469  Oreopteris limbosperma      | Lemon-scented Fern          | Limon Kokulu Eğrelti
+470  Anemone x hybrida           | Japanese Anemone            | Japon Anemonu
+471  Anemone alpina              | Alpine Anemone              | Alp Anemonu
+472  Pancratium illyricum        | Illyrian Sea Daffodil       | İlirya Kum Zambağı
+473  Anemone apennina            | Blue Anemone                | Mavi Anemon
+474  Anemone baldensis           | Mount Baldo Anemone         | Baldo Dağı Anemonu
+475  Papaver alpinum             | Alpine Poppy                | Alp Geliniği
+476  Papaver croceum             | Iceland Poppy               | İzlanda Geliniği
+477  Papaver orientale           | Oriental Poppy              | Doğu Geliniği
+478  Papaver pseudoorientale     | False Oriental Poppy        | Sahte Doğu Geliniği
+479  Papaver rhaeticum           | Rhaetian Poppy              | Retya Geliniği
+480  Anemone halleri             | Haller's Anemone            | Haller Anemonu
+481  Anemone hepatica            | Liverwort                   | Ciğer Otu
+482  Pelargonium x hybridum      | Hybrid Geranium             | Melez Sardunya
+483  Pelargonium inquinans       | Scarlet Geranium            | Kırmızı Sardunya
+484  Pelargonium peltatum        | Ivy Geranium                | Sarmaşık Sardunyası
+485  Anemone montana             | Mountain Anemone            | Dağ Anemonu
+486  Anemone nemorosa            | Wood Anemone                | Orman Anemonu
+487  Anemone pulsatilla          | Pasque Flower               | Paskalya Çiçeği
+488  Anemone rubra               | Red Anemone                 | Kırmızı Anemon
+489  Phedimus stellatus          | Starfish Plant              | Denizyıldızı Bitkisi
+490  Anemone sylvestris          | Snowdrop Anemone            | Kar Damlası Anemonu
+491  Anemone trifolia            | Three-leaved Anemone        | Üç Yapraklı Anemon
+492  Anemone vernalis            | Spring Anemone              | Bahar Anemonu
+493  Angelica heterocarpa        | —                           | —
+494  Angelica razulii            | —                           | —
+495  Angelica sylvestris         | Wild Angelica               | Yabani Melek Otu
+496  Pleurospermum austriacum    | Austrian Pleurospermum      | —
+497  Sasa palmata                | Bamboo                      | Bambu
+498  Anthericum ramosum          | Branched St. Bernard's Lily | Dallı Aziz Bernard Zambağı
+499  Pyracantha coccinea         | Scarlet Firethorn           | Kırmızı Ateş Dikeni
+500  Pyracantha rogersiana       | Roger's Firethorn           | Rogers Ateş Dikeni
+501  Holodiscus discolor         | Oceanspray                  | Okyanus Spreyi
+502  Sagittaria graminea         | Grass-leaved Arrowhead      | Çimen Yapraklı Ok Otu
+503  Sagittaria latifolia        | Broadleaf Arrowhead         | Geniş Yapraklı Ok Otu
+504  Sagittaria sagittifolia     | Arrowhead                   | Ok Otu
+505  Diascia rigescens           | Rigid Twinspur              | Sert Çift Mahmuz
+506  Diascia vigilis             | —                           | —
+507  Sedum sarmentosum           | Gold Moss Stonecrop         | Altın Yosun Damkoruğu
+508  Sedum alpestre              | Alpine Stonecrop            | Alp Damkoruğu
+509  Sedum annuum                | Annual Stonecrop            | Yıllık Damkoruğu
+510  Sedum kamtschaticum         | Kamschatka Stonecrop        | Kamçatka Damkoruğu
+511  Sedum mexicanum             | Mexican Stonecrop           | Meksika Damkoruğu
+512  Sedum ochroleucum           | Pale Stonecrop              | Soluk Damkoruğu
+513  Sedum sexangulare           | Tasteless Stonecrop         | —
+514  Metasequoia glyptostroboides| Dawn Redwood                | Şafak Sekoyası
+515  Telekia speciosa            | Yellow Ox-eye               | Sarı Öküz Gözü
+516  Thesium alpinum             | Alpine Bastard Toadflax     | —
+517  Thesium linophyllon         | Flax-leaved Bastard Toadflax| —
+518  Tradescantia x andersoniana | Spiderwort                  | Örümcek Otu
+519  Tradescantia virginiana     | Virginia Spiderwort         | Virginia Örümcek Otu
+520  Trifolium alpestre          | Downy Clover                | Tüylü Yonca
+521  Trifolium alpinum           | Alpine Clover               | Alp Yoncası
+522  Trifolium pallescens        | Pale Clover                 | Soluk Yonca
+523  Trifolium spadiceum         | Brown Clover                | Kahverengi Yonca
+524  Trifolium thalii            | Thal's Clover               | —
+525  Viscaria alpina             | Alpine Campion              | Alp Çan Çiçeği
+526  Viscaria vulgaris           | Common Catchfly             | Sıradan Yapışkan Ot
+527  Anemone hupehensis          | Chinese Anemone             | Çin Anemonu
+528  Anemone vitifolia           | Grapeleaf Anemone           | Asma Yapraklı Anemon
+529  Adenostyles alpina          | Alpine Adenostyles          | —
+530  Alcea biennis               | Biennial Hollyhock          | İki Yıllık Gülhatmi
+531  Anemone narcissiflora       | Narcissus Anemone           | Nergiz Anemonu
+532  Anemone ranunculoides       | Yellow Wood Anemone         | Sarı Orman Anemonu
+533  Angelica archangelica       | Garden Angelica             | Bahçe Melek Otu
+534  Chaerophyllum bulbosum      | Bulbous Chervil             | Yumrulu Frenk Maydanozu
+535  Cirsium acaulon             | Stemless Thistle            | Sapssız Devedikeni
+536  Cirsium spinosissimum       | Spiny Thistle               | Dikenli Devedikeni
+537  Cymbalaria muralis          | Ivy-leaved Toadflax         | Sarmaşık Yapraklı Koyungözü
+538  Eritrichium nanum           | Alpine Forget-me-not        | Alp Unutma Beni
+539  Fragaria viridis            | Green Strawberry            | Yeşil Çilek
+540  Honckenya peploides         | Sea Sandwort                | Deniz Kum Otu
+541  Hypericum hyssopifolium     | Hyssop-leaved St. Jw.       | Mercanköşk Yapraklı Kantaron
+542  Hypericum mutilum           | Dwarf St. John's Wort       | Cüce Kantaron
+543  Lactuca perennis            | Mountain Lettuce            | Dağ Marulu
+544  Sedum atratum               | Dark Stonecrop              | Koyu Damkoruğu
+545  Thesium pyrenaicum          | Pyrenean Bastard Toadflax   | —
+546  Trifolium medium            | Zigzag Clover               | Zigzag Yonca
+547  Trinia glauca               | Honewort                    | —
+548  Sedum montanum              | Mountain Stonecrop          | Dağ Damkoruğu
+549  Trifolium badium            | Brown Clover                | Kahverengi Yonca
+550  Freesia refracta            | Freesia                     | Frezya
+551  Freesia alba                | White Freesia               | Beyaz Frezya
+552  Cobaea scandens             | Cup and Saucer Vine         | Fincan Tabak Sarmaşığı
+553  Fragaria virginiana         | Virginia Strawberry         | Virginia Çileği
+554  Anemone pratensis           | Meadow Anemone              | Çayır Anemonu
+555  Sagittaria lancifolia       | Lance-leaved Arrowhead      | Mızrak Yapraklı Ok Otu
+556  Neotinea tridentata         | Trident Orchid              | Üç Dişli Orkide
+557  Adenostyles alliariae       | Common Adenostyles          | —
+558  Ophrys pseudoscolopax       | —                           | —
+559  Sedum palmeri               | Palmer's Stonecrop          | Palmer Damkoruğu
+560  Hypericum olympicum         | Olympic St. John's Wort     | Olimpos Kantaronu
+561  Tradescantia zebrina        | Inch Plant                  | Çizgili Tradeskansiya
+562  Dryopteris erythrosora      | Autumn Fern                 | Sonbahar Eğreltisi
+563  Adenostyles leucophylla     | —                           | —
+564  Calycanthus floridus        | Carolina Allspice           | Karolina Yenibaharı
+565  Phyllanthus niruri          | Stonebreaker                | Taş Kıran
+566  Ophrys araneola             | Small Spider Orchid         | Küçük Örümcek Orkidesi
+567  Anemone blanda              | Balkan Anemone              | Balkan Anemonu
+568  Aralia elata                | Japanese Angelica Tree      | Japon Melek Ağacı
+569  Ophrys virescens            | Green Ophrys                | Yeşil Orkide
+570  Clethra alnifolia           | Summersweet                 | Yaz Tatlısı
+571  Corispermum pallasii        | Bugseed                     | —
+572  Hypericum patulum           | Goldencup St. John's Wort   | Altın Kaplı Kantaron
+573  Hypericum x hidcoteense     | Hidcote St. John's Wort     | Hidcote Kantaronu
+574  Lupinus nootkatensis        | Nootka Lupin                | Nootka Acı Bakla
+575  Smilax rotundifolia         | Common Greenbrier           | Sıradan Gıcır
+576  Perovskia atriplicifolia    | Russian Sage                | Rus Adaçayı
+577  Nothofagus antarctica       | Antarctic Beech             | Antarktika Kayını
+578  Iva annua                   | Annual Marsh Elder          | Yıllık Bataklık Mürver
+579  Dryopteris fragrans         | Fragrant Fern               | Kokulu Eğrelti
+580  Neotinea conica             | Conical Orchid              | Konik Orkide
+581  Tetraclinis articulata      | Sandarac                    | Sandarac Ağacı
+582  Alcea setosa                | Bristly Hollyhock           | Dikenli Gülhatmi
+583  Chaerophyllum aromaticum    | Aromatic Chervil            | Aromatik Frenk Maydanozu
+584  Cucurbita moschata          | Butternut Squash            | Balkabağı
+585  Daphne sericea              | Silky Daphne                | İpekli Defne
+586  Lamium orvala               | Large Deadnettle            | Büyük Ballıbaba
+587  Paederota bonarota          | —                           | —
+588  Rhodothamnus chamaecistus   | Dwarf Rose Bay              | Cüce Defne Gülü
+589  Ophrys lunulata             | Crescent Ophrys             | Hilal Orkidesi
+590  Schefflera actinophylla     | Umbrella Tree               | Şemsiye Ağacı
+591  Astydamia latifolia         | Rock Samphire               | Kaya Kayakoruğu
+592  Lavandula pinnata           | Canary Islands Lavender     | Kanarya Adaları Lavantası
+593  Angelica atropurpurea       | Great Angelica              | Büyük Melek Otu
+594  Acacia pravissima           | Ovens Wattle                | —
+595  Adonis pyrenaica            | Pyrenean Pheasant's Eye     | Pireneler Pırnallısı
+596  Adonis vernalis             | Spring Pheasant's Eye       | Bahar Pırnallısı
+597  Barbarea rupicola           | Rock Rocket                 | Kaya Roketi
+598  Barbarea vulgaris           | Yellow Rocket               | Sarı Roket
+599  Acacia baileyana            | Cootamundra Wattle          | Cootamundra Akasyası
+600  Bellium bellidioides        | False Daisy                 | Yalancı Papatya
+601  Bocoa prouacensis           | —                           | —
+602  Nephrolepis biserrata       | Giant Sword Fern            | Dev Kılıç Eğreltisi
+603  Vanilla pompona             | Pompona Vanilla             | —
+604  Guatteria anteridifera      | —                           | —
+605  Caraipa densifolia          | —                           | —
+606  Caraipa punctulata          | —                           | —
+607  Vismia cayennensis          | —                           | —
+608  Vismia macrophylla          | —                           | —
+609  Vismia sessilifolia         | —                           | —
+610  Dryopteris wallichiana      | Wallich's Wood Fern         | Wallich Eğreltisi
+611  Xylopia frutescens          | Wild Pepper Tree            | Yabani Biber Ağacı
+612  Xylopia nitida              | —                           | —
+613  Xylopia sericea             | —                           | —
+614  Phyllanthus urinaria        | Chamber Bitter              | —
+615  Pogonophora schomburgkiana  | —                           | —
+616  Sagotia racemosa            | —                           | —
+617  Bonafousia undulata         | —                           | —
+618  Guarea gomma                | —                           | —
+619  Nymphoides indica           | Water Snowflake             | Su Kar Tanesi
+620  Anthurium hookeri           | Bird's Nest Anthurium       | Kuş Yuvası Anturyumu
+621  Anthurium jenmanii          | —                           | —
+622  Anthurium scandens          | Climbing Anthurium          | Tırmanıcı Anturyum
+623  Dracontium polyphyllum      | —                           | —
+624  Crotalaria retusa           | Rattleweed                  | Çıngırak Otu
+625  Peperomia magnoliifolia     | Wax Privet Peperomia        | Mum Balmumu Peperomu
+626  Peperomia obtusifolia       | Baby Rubber Plant           | Bebek Kauçuk Bitkisi
+627  Peperomia quadrangularis    | —                           | —
+628  Peperomia rotundifolia      | Trailing Jade               | Sarkık Yeşim
+629  Peperomia serpens           | —                           | —
+630  Declieuxia fruticosa        | —                           | —
+631  Mauritia flexuosa           | Moriche Palm                | Moriche Palmiyesi
+632  Urera baccifera             | Stinging Nettle Tree        | Yakıcı Isırgan Ağacı
+633  Pereskia bleo               | Wax Rose                    | Mum Gülü
+634  Cereus hexagonus            | Six-angled Cactus           | Altı Köşeli Kaktüs
+635  Xylopia crinita             | —                           | —
+636  Vanilla planifolia          | Vanilla                     | Vanilya
+637  Aciotis rubricaulis         | —                           | —
+638  Guatteria amplifolia        | —                           | —
+639  Luffa cylindrica            | Luffa / Sponge Gourd        | Lif Kabağı
+640  Cryptostegia madagascariensis| Madagascan Rubber Vine     | Madagaskar Kauçuk Sarmaşığı
+641  Schefflera decaphylla       | —                           | —
+642  Aphelandra scabra           | —                           | —
+643  Asystasia gangetica         | Chinese Violet              | Çin Menekşesi
+644  Piriqueta cistoides         | —                           | —
+645  Acalypha wilkesiana         | Copper Leaf                 | Bakır Yaprak
+646  Breynia disticha            | Snowbush                    | Kar Çalısı
+647  Crotalaria incana           | Shakeshake                  | —
+648  Crotalaria pallida          | Smooth Crotalaria           | —
+649  Kigelia africana            | Sausage Tree                | Sosis Ağacı
+650  Guatteria citriodora        | —                           | —
+651  Acalypha indica             | Indian Nettle               | Hint Isırganı
+652  Guatteria punctata          | —                           | —
+653  Anthurium crystallinum      | Crystal Anthurium           | Kristal Anturyum
+654  Cryptopus elatus            | —                           | —
+655  Cryptostegia grandiflora    | Rubber Vine                 | Kauçuk Sarmaşığı
+656  Eranthemum pulchellum       | Blue Sage                   | Mavi Adaçayı
+657  Alocasia cucullata          | Chinese Taro                | Çin Göleği
+658  Alocasia longiloba          | Long-lobed Alocasia         | Uzun Loblu Alokasya
+659  Alocasia macrorrhizos       | Giant Taro                  | Dev Gölek
+660  Faujasia salicifolia        | —                           | —
+661  Fernelia buxifolia          | —                           | —
+662  Fragaria x ananassa         | Garden Strawberry           | Bahçe Çileği
+663  Geniostoma borbonicum       | —                           | —
+664  Hernandia mascarenensis     | —                           | —
+665  Hypericum lanceolatum       | Lance-leaved St. Jw.        | Mızrak Yapraklı Kantaron
+666  Acacia auriculiformis       | Earleaf Acacia              | Kulaklı Akasya
+667  Leonitis nepetifolia        | Christmas Candlestick       | Noel Şamdanı
+668  Mussaenda arcuata           | —                           | —
+669  Nephrolepis abrupta         | —                           | —
+670  Acacia heterophylla         | Réunion Acacia              | Réunion Akasyası
+671  Paederia foetida            | Stinkvine                   | Koku Sarmaşığı
+672  Pelargonium x asperum       | Rough-leaved Geranium       | Pürüzlü Yapraklı Sardunya
+673  Pereskia grandifolia        | Rose Cactus                 | Gül Kaktüsü
+674  Antirhea borbonica          | —                           | —
+675  Phyllanthus emblica         | Indian Gooseberry           | Hint Bektaşiüzümü
+676  Phyllanthus niruroides      | —                           | —
+677  Phyllanthus phillyreifolius | —                           | —
+678  Pongamia pinnata            | Indian Beech                | Hint Meşesi
+679  Acacia podalyriifolia       | Queensland Silver Wattle    | Queensland Gümüş Akasya
+680  Schefflera actinophylla     | Umbrella Tree               | Şemsiye Ağacı
+681  Acalypha hispida            | Chenille Plant              | Kadife Otu
+682  Acalypha integrifolia       | —                           | —
+683  Stemodia verticillata       | —                           | —
+684  Stoebe passerinoides        | —                           | —
+685  Strongylodon macrobotrys    | Jade Vine                   | Yeşim Sarmaşığı
+686  Tradescantia pallida        | Purple Heart                | Mor Yürek Otu
+687  Trimezia martinicensis      | Prairie Iris                | Çayır Süseni
+688  Vangueria madagascariensis  | Spanish Tamarind            | İspanyol Demirhindi
+689  Vepris lanceolata           | White Ironwood              | Beyaz Demir Ağacı
+690  Zaleya pentandra            | —                           | —
+691  Cereus repandus             | Peruvian Apple Cactus       | Peru Elma Kaktüsü
+692  Bismarckia nobilis          | Bismarck Palm               | Bismarck Palmiyesi
+693  Acacia nilotica             | Gum Arabic Tree             | Arap Zamkı Ağacı
+694  Schefflera arboricola       | Dwarf Umbrella Tree         | Cüce Şemsiye Ağacı
+695  Fragaria chiloensis         | Beach Strawberry            | Plaj Çileği
+696  Aphelandra squarrosa        | Zebra Plant                 | Zebra Bitkisi
+697  Gynura aurantiaca           | Purple Velvet Plant         | Mor Kadife Bitkisi
+698  Pereskia aculeata           | Barbados Gooseberry         | Barbados Bektaşiüzümü
+699  Peperomia argyreia          | Watermelon Peperomia        | Karpuz Peperomu
+700  Peperomia caperata          | Ripple Peperomia            | Kırışık Peperomu
+701  Peperomia obtusifolia       | Baby Rubber Plant           | Bebek Kauçuk Bitkisi
+702  Anthurium andraeanum        | Flamingo Flower             | Flamingo Çiçeği
+703  Anthurium scherzerianum     | Pigtail Anthurium           | Domuz Kuyruğu Anturyumu
+704  Zamia furfuracea            | Cardboard Palm              | Karton Palmiyesi
+705  Dendrobium nobile           | Noble Dendrobium            | Asil Dendrobium
+706  Nandina domestica           | Heavenly Bamboo             | Göksel Bambu
+707  Nymphaea nouchali           | Blue Star Waterlily         | Mavi Yıldız Nilüferi
+708  Falcataria moluccana        | Batai                       | Batai Ağacı
+709  Acacia tortuosa             | Twisted Acacia              | Buruk Akasya
+710  Bourreria succulenta        | —                           | —
+711  Crotalaria brevidens        | —                           | —
+712  Crotalaria pumila           | Low Rattlebox               | Alçak Çıngırak Otu
+713  Dendrobium chrysotoxum      | Fried Egg Orchid            | Sahanda Yumurta Orkidesi
+714  Dendrobium crumenatum       | Pigeon Orchid               | Güvercin Orkidesi
+715  Dendrobium moschatum        | Musk Dendrobium             | Misk Dendrobium
+716  Entada gigas                | Sea Heart                   | Deniz Kalbi
+717  Fittonia albivenis          | Nerve Plant                 | Sinir Bitkisi
+718  Illicium verum              | Star Anise                  | Yıldız Anason
+719  Lactuca floridana           | Woodland Lettuce            | Orman Marulu
+720  Mussaenda pubescens         | Downy Mussaenda             | Tüylü Mussaenda
+721  Neolamarckia cadamba        | Cadamba                     | Kadamba Ağacı
+722  Nymphaea ampla              | Sacred White Waterlily      | Kutsal Beyaz Nilüfer
+723  Phyllanthus epiphyllanthus  | —                           | —
+724  Phyllanthus mimosoides      | —                           | —
+725  Pilosocereus royeni         | —                           | —
+726  Selenicereus anthonyanus    | Fishbone Cactus             | Balık Kılçığı Kaktüsü
+727  Selenicereus grandiflorus   | Queen of the Night          | Gece Kraliçesi
+728  Zamia pumila                | Florida Coontie             | Florida Zamisi
+729  Acalypha aristata           | —                           | —
+730  Chamerion latifolium        | Broad-leaved Willowherb     | Geniş Yapraklı İt Otu
+731  Cirsium discolor            | Field Thistle               | Tarla Devedikenesi
+732  Cirsium foliosum            | Leafy Thistle               | Yapraklı Devedikeni
+733  Cirsium muticum             | Swamp Thistle               | Bataklık Devedikenesi
+734  Cirsium undulatum           | Wavyleaf Thistle            | Dalgalı Yapraklı Devedikeni
+735  Comptonia peregrina         | Sweet Fern                  | Tatlı Eğrelti
+736  Conoclinium coelestinum     | Blue Mistflower             | Mavi Sis Çiçeği
+737  Dalea purpurea              | Purple Prairie Clover       | Mor Çayır Yoncası
+738  Daucus pusillus             | American Wild Carrot        | Amerikan Yabani Havucu
+739  Diervilla lonicera          | Northern Bush Honeysuckle   | Kuzey Çalı Hanımeli
+740  Dryopteris carthusiana      | Spinulose Wood Fern         | Dikenli Orman Eğreltisi
+741  Dryopteris cristata         | Crested Wood Fern           | Tepeli Orman Eğreltisi
+742  Dryopteris intermedia       | Intermediate Wood Fern      | Orta Orman Eğreltisi
+743  Dryopteris marginalis       | Marginal Wood Fern          | Kenarlı Orman Eğreltisi
+744  Duchesnea indica            | Indian Strawberry           | Hint Çileği
+745  Epipactis gigantea          | Giant Helleborine           | Dev Dağ Orkidesi
+746  Hypericum kalmianum         | Kalm's St. John's Wort      | —
+747  Hypericum prolificum        | Shrubby St. John's Wort     | Çalılı Kantaron
+748  Hypericum punctatum         | Spotted St. John's Wort     | Benekli Kantaron
+749  Anemone canadensis          | Canada Anemone              | Kanada Anemonu
+750  Iva frutescens              | Marsh Elder                 | Bataklık Mürver
+751  Anemone multifida           | Cut-leaved Anemone          | Parçalı Yapraklı Anemon
+752  Anemone virginiana          | Thimbleweed                 | Yüksük Otu
+753  Lactuca biennis             | Tall Blue Lettuce           | Uzun Mavi Marul
+754  Lactuca canadensis          | Canada Lettuce              | Kanada Marulu
+755  Lamium maculatum            | Spotted Deadnettle          | Benekli Ballıbaba
+756  Leersia virginica           | Whitegrass                  | Beyaz Çim
+757  Angelica lucida             | Sea-coast Angelica          | Kıyı Melek Otu
+758  Lupinus argenteus           | Silvery Lupin               | Gümüşi Acı Bakla
+759  Lupinus bicolor             | Miniature Lupin             | Minyatür Acı Bakla
+760  Maianthemum canadense       | Canada Mayflower            | Kanada Mayıs Çiçeği
+761  Maianthemum racemosum       | False Solomon's Seal        | Yalancı Süleyman'ın Mühürü
+762  Maianthemum stellatum       | Starry Solomon's Seal       | Yıldızlı Süleyman'ın Mühürü
+763  Maianthemum trifolium       | Three-leaved Solomon's Seal | Üç Yapraklı Süleyman'ın Mühürü
+764  Mertensia maritima          | Oysterleaf                  | İstiridye Yaprağı
+765  Mertensia paniculata        | Tall Lungwort               | Uzun Akciğer Otu
+766  Mertensia virginica         | Virginia Bluebells          | Virginia Çan Çiçekleri
+767  Mitella diphylla            | Two-leaved Bishop's Cap     | İki Yapraklı Piskopos Şapkası
+768  Moehringia lateriflora      | Bluntleaf Sandwort          | Küt Yapraklı Kum Otu
+769  Nymphaea mexicana           | Yellow Water Lily           | Sarı Nilüfer
+770  Nymphaea odorata            | Fragrant Waterlily          | Kokulu Nilüfer
+771  Nymphaea tetragona          | Pygmy Water Lily            | Cüce Nilüfer
+772  Osmunda cinnamomea          | Cinnamon Fern               | Tarçın Eğreltisi
+773  Osmunda claytoniana         | Interrupted Fern            | Kesintili Eğrelti
+774  Papaver nudicaule           | Iceland Poppy               | İzlanda Geliniği
+775  Aralia hispida              | Bristly Sarsaparilla        | Dikenli Sarsaparilla
+776  Aralia nudicaulis           | Wild Sarsaparilla           | Yabani Sarsaparilla
+777  Aralia racemosa             | American Spikenard          | Amerikan Hindin
+778  Pyracantha coccinea         | Scarlet Firethorn           | Kırmızı Ateş Dikeni
+779  Sedum divergens             | Spreading Stonecrop         | Yayılan Damkoruğu
+780  Sedum lanceolatum           | Lance-leaved Stonecrop      | Mızrak Yapraklı Damkoruğu
+781  Sedum oreganum              | Oregon Stonecrop            | Oregon Damkoruğu
+782  Sedum spathulifolium        | Broad-leaved Stonecrop      | Geniş Yapraklı Damkoruğu
+783  Sedum ternatum              | Wild Stonecrop              | Yabani Damkoruğu
+784  Smilax herbacea             | Smooth Carrion Flower       | Düz Çiçek
+785  Smilax tamnoides            | Bristly Greenbrier          | Dikenli Gıcır
+786  Tradescantia occidentalis   | Prairie Spiderwort          | Çayır Örümcek Otu
+787  Tradescantia ohiensis       | Ohio Spiderwort             | Ohio Örümcek Otu
+788  Balsamorhiza sagittata      | Arrowleaf Balsamroot        | Ok Yapraklı Balsam Kökü
+789  Barbarea orthoceras         | American Yellow Rocket      | Amerikan Sarı Roketi
+790  Barbarea vulgaris           | Common Yellow Rocket        | Sıradan Sarı Roket
+791  Calochortus macrocarpus     | Sagebrush Mariposa Lily     | Adaçayı Mariposa Zambağı
+792  Entada phaseoloides         | Matchbox Bean               | Kibrit Kutusu Fasulyesi
+793  Cerbera manghas             | Sea Mango                   | Deniz Mangosu
+794  Hernandia cordigera         | —                           | —
+795  Acacia simplex              | Pacific Island Wattle       | Pasifik Adası Akasyası
+796  Dubouzetia confusa          | —                           | —
+797  Dubouzetia campanulata      | —                           | —
+798  Acacia spirorbis            | —                           | —
+799  Atractocarpus platyxylon    | —                           | —
+800  Nepenthes vieillardii       | Vieillard's Pitcher Plant   | Vieillard Sürahi Bitkisi
+801  Dendrobium closterium       | —                           | —
+802  Dracophyllum verticillatum  | —                           | —
+803  Schefflera spp.             | Umbrella Plant              | Şemsiye Bitkisi
+804  Tagetes lucida              | Mexican Marigold            | Meksika Kadife Çiçeği
+805  Anisocampium niponicum      | Japanese Painted Fern       | Japon Boyalı Eğreltisi
+806  Mertensia ciliata           | Mountain Bluebells          | Dağ Çan Çiçekleri
+807  Lithops fulviceps           | Living Stone                | Yaşayan Taş
+808  Lithops karasmontana        | Living Stone                | Yaşayan Taş
+809  Lithops marmorata           | Living Stone                | Yaşayan Taş
+810  Lithops pseudotruncatella   | Living Stone                | Yaşayan Taş
+811  Fittonia albivenis          | Nerve Plant                 | Sinir Bitkisi
+812  Lithops spp.                | Living Stones               | Yaşayan Taşlar
+813  Cereus hildmannianus        | Hildmann's Cereus           | —
+814  Neobuxbaumia polylopha      | Garambullo Cactus           | —
+815  Calycanthus occidentalis    | Western Sweetshrub          | Batı Tatlı Çalısı
+816  Tradescantia subaspera      | Zigzag Spiderwort           | Zigzag Örümcek Otu
+817  Sedum kamtschaticum         | Kamschatka Stonecrop        | Kamçatka Damkoruğu
+818  Sedum lineare               | Needle Stonecrop            | İğne Damkoruğu
+819  Sedum morganianum           | Donkey's Tail               | Eşek Kuyruğu
+820  Cucurbita foetidissima      | Stinking Gourd              | Kokan Kabak
+821  Eucryphia cordifolia        | Ulmo                        | Ulmo Ağacı
+822  Dryopteris cycadina         | Shaggy Wood Fern            | Pürüzlü Orman Eğreltisi
+823  Dryopteris erythrosora      | Autumn Fern                 | Sonbahar Eğreltisi
+824  Dryopteris sieboldii        | Siebold's Wood Fern         | Siebold Orman Eğreltisi
+825  Rumohra adiantiformis       | Leatherleaf Fern            | Deri Yapraklı Eğrelti
+826  Oxydendrum arboreum         | Sourwood                    | Ekşi Ağaç
+827  Lupinus albifrons           | Silver Bush Lupine          | Gümüş Çalı Acı Bakla
+828  Lycoris radiata             | Red Spider Lily             | Kırmızı Örümcek Zambağı
+829  Garrya elliptica            | Silk Tassel Bush            | İpek Püskül Çalısı
+830  Lycoris squamigera          | Resurrection Lily           | Diriliş Zambağı
+831  Pelargonium crispum         | Lemon Geranium              | Limon Sardunyası
+832  Pelargonium x hortorum      | Garden Geranium             | Bahçe Sardunyası
+833  Loropetalum chinense        | Chinese Fringe Flower       | Çin Saçak Çiçeği
+834  Hypericum frondosum         | Cedarglade St. John's Wort  | —
+835  Liriope muscari             | Lilyturf                    | Zambak Çimi
+836  Limnanthes douglasii        | Meadowfoam                  | Çayır Köpüğü
+837  Nothofagus alpina           | Rauli Beech                 | Rauli Kayını
+838  Nothofagus pumilio          | Lenga Beech                 | Lenga Kayını
+839  Abeliophyllum distichum     | White Forsythia             | Beyaz Forsitia
+840  Dendrobium aphyllum         | Leafless Dendrobium         | Yaprakssız Dendrobium
+841  Dendrobium spp.             | Dendrobium Orchid           | Dendrobium Orkidesi
+842  Vanilla planifolia          | Vanilla                     | Vanilya
+843  Heteromorpha arborescens    | Parsley Tree                | Maydanoz Ağacı
+844  Lapageria rosea             | Chilean Bellflower          | Şili Çan Çiçeği
+845  Peperomia argyreia          | Watermelon Peperomia        | Karpuz Peperomu
+846  Peperomia dolabriformis     | Prayer Pepper               | Dua Biberi
+847  Hebe franciscana            | —                           | —
+848  Maurandya barclayana        | Climbing Snapdragon         | Tırmanıcı Aslanağzı
+849  Sasa palmata                | Bamboo                      | Bambu
+850  Anemone patens              | Pasque Flower               | Paskalya Çiçeği
+851  Fragaria virginiana         | Wild Strawberry             | Yabani Çilek
+852  Fragaria x ananassa         | Garden Strawberry           | Bahçe Çileği
+853  Mussaenda philippica        | Philippine Mussaenda        | Filipin Mussaendası
+854  Limonia acidissima          | Wood Apple                  | Tahta Elma
+855  Illicium floridanum         | Florida Anise               | Florida Anısonu
+856  Browallia speciosa          | Sapphire Flower             | Safir Çiçeği
+857  Alocasia cuprea             | Giant Caladium              | Dev Kaladyum
+858  Alocasia micholitziana      | Green Velvet Alocasia       | Yeşil Kadife Alokasya
+859  Alocasia odora              | Night-scented Lily          | Gece Kokulu Zambak
+860  Daphne odora                | Winter Daphne               | Kış Defnesi
+861  Alocasia sanderiana         | Kris Plant                  | Kris Bitkisi
+862  Daphne tangutica            | —                           | —
+863  Kniphofia uvaria            | Red Hot Poker               | Kızıl Ateş Mızrağı
+864  Zamia furfuracea            | Cardboard Cycad             | Karton Sikad
+865  Guaiacum sanctum            | Holywood Lignum Vitae       | Kutsal Yaşam Ağacı
+866  Nepenthes spp.              | Pitcher Plants              | Sürahi Bitkiler
+867  Pelargonium spp.            | Geranium                    | Sardunya
+868  Pancratium maritimum        | Sea Daffodil                | Kum Zambağı
+869  Sedum palmeri               | Palmer's Stonecrop          | Palmer Damkoruğu
+870  Aphelandra sinclairiana     | Panama Queen                | Panama Kraliçesi
+871  Alocasia macrorrhizos       | Giant Taro                  | Dev Gölek
+872  Acacia confusa              | Small Philippine Acacia     | Küçük Filipin Akasyası
+873  Acacia koaia                | Koaia                       | Koaia
+874  Nephrolepis falcata         | Fishtail Sword Fern         | Balık Kuyruğu Kılıç Eğreltisi
+875  Tradescantia zebrina        | Inch Plant                  | Çizgili Tradeskansiya
+876  Calodendrum capense         | Cape Chestnut               | Kap Kestanesi
+877  Pelargonium grandiflorum    | Large-flowered Geranium     | Büyük Çiçekli Sardunya
+878  Hypericum revolutum         | Curry Bush                  | Köri Çalısı
+879  Schkuhria pinnata           | Dwarf Marigold              | Cüce Kadife Çiçeği
+880  Maytenus boaria             | Chilean Mayten              | Şili Mayteni
+881  Melampodium perfoliatum     | —                           | —
+882  Hernandia nymphaeifolia     | —                           | —
+883  Mazus pumilus               | Japanese Mazus              | Japon Mazusu
+884  Melampodium divaricatum     | —                           | —
+885  Breynia vitis-idaea         | —                           | —
+886  Prosopis farcta             | Syrian Mesquite             | Suriye Mezkiti
+887  Acacia farnesiana           | Sweet Acacia                | Tatlı Akasya
+888  Freycinetia cumingiana      | —                           | —
+889  Crotalaria laburnifolia     | —                           | —
+890  Dalbergia sissoo            | Shisham                     | Şişam Ağacı
+891  Dischidia nummularia        | String of Nickels           | Madeni Para Sarmaşığı
+892  Schefflera heptaphylla      | Common Schefflera           | Sıradan Şefera
+893  Schinopsis balansae         | Red Quebracho               | Kırmızı Quebracho
+894  Smilax china                | China Root                  | Çin Kökü
+895  Barringtonia acutangula     | Indian Oak                  | Hint Meşesi
+896  Maerua triphylla            | —                           | —
+897  Asystasia mysorensis        | —                           | —
+898  Lactuca virosa              | Bitter Lettuce              | Acı Marul
+899  Calendula arvensis          | Field Marigold              | Tarla Nergizi
+900  Herbertia lahue             | Prairie Iris                | Çayır Süseni
+901  Hypericum hypericoides      | St. Andrew's Cross          | Aziz Andrew'in Haçı
+902  Hypericum tetrapetalum      | Four-petal St. John's Wort  | Dört Yapraklı Kantaron
+903  Keckiella cordifolia        | Climbing Penstemon          | Tırmanıcı Penstemon
+904  Liriope muscari             | Lilyturf                    | Zambak Çimi
+905  Lupinus chamissonis         | Silver Bush Lupine          | Gümüş Çalı Acı Bakla
+906  Lupinus diffusus            | Sky Blue Lupine             | Gök Mavi Acı Bakla
+907  Lupinus formosus            | Summer Lupine               | Yaz Acı Bakla
+908  Lupinus hirsutissimus       | Stinging Lupine             | Yakıcı Acı Bakla
+909  Lupinus subcarnosus         | Texas Bluebonnet            | Teksas Mavi Boneti
+910  Lupinus texensis            | Texas Bluebonnet            | Teksas Mavi Boneti
+911  Lyonothamnus floribundus    | Catalina Ironwood           | Catalina Demir Ağacı
+912  Mazus pumilus               | Japanese Mazus              | Japon Mazusu
+913  Melampodium leucanthum      | Blackfoot Daisy             | Kara Ayak Papatyası
+914  Metasequoia glyptostroboides| Dawn Redwood                | Şafak Sekoyası
+915  Aralia californica          | California Spikenard        | Kaliforniya Hindin
+916  Nyctaginia capitata         | Devil's Bouquet             | Şeytan Buketi
+917  Aralia spinosa              | Devil's Walking Stick       | Şeytan'ın Bastonu
+918  Pelargonium panduriforme    | Fiddle-leaved Geranium      | Keman Yapraklı Sardunya
+919  Pelargonium zonale          | Zonal Geranium              | Zonlu Sardunya
+920  Prosopis glandulosa         | Honey Mesquite              | Bal Mezkiti
+921  Prosopis pubescens          | Screwbean Mesquite          | Vida Fasulyeli Mezkit
+922  Sagittaria montevidensis    | Giant Arrowhead             | Dev Ok Otu
+923  Sedum albomarginatum        | White-margined Stonecrop    | Beyaz Kenarlı Damkoruğu
+924  Sedum glaucophyllum         | Glaucous Stonecrop          | Donuk Yapraklı Damkoruğu
+925  Sedum laxum                 | Roseflower Stonecrop        | Gül Çiçekli Damkoruğu
+926  Sedum moranense             | Red Stonecrop               | Kırmızı Damkoruğu
+927  Sedum niveum                | Davidson's Stonecrop        | Davidson Damkoruğu
+928  Sedum obtusatum             | Sierra Stonecrop            | Sierra Damkoruğu
+929  Sedum pulchellum            | Widow's Cross               | Dul Haçı
+930  Smilax bona-nox             | Fringed Greenbrier          | Saçaklı Gıcır
+931  Smilax glauca               | Whiteleaf Greenbrier        | Beyaz Yapraklı Gıcır
+932  Smilax laurifolia           | Laurel Greenbrier           | Defne Yapraklı Gıcır
+933  Stanleya pinnata            | Prince's Plume              | Prens Tüyü
+934  Tagetes lemmonii            | Copper Canyon Daisy         | Bakır Kanyon Papatyası
+935  Tradescantia crassifolia    | —                           | —
+936  Xylococcus bicolor          | Mission Manzanita           | Misyon Manzanitası
+937  Brodiaea elegans            | Harvest Brodiaea            | Hasat Brodiyası
+938  Calochortus eurycarpus      | Big-pod Mariposa Lily       | Büyük Kaplı Mariposa Zambağı
+939  Calochortus gunnisonii      | Gunnison's Mariposa Lily    | Gunnison Mariposa Zambağı
+940  Calochortus leichtlinii     | Leichtlin's Mariposa Lily   | Leichtlin Mariposa Zambağı
+941  Calochortus luteus          | Yellow Mariposa Lily        | Sarı Mariposa Zambağı
+942  Calochortus splendens       | Splendid Mariposa Lily      | Görkemli Mariposa Zambağı
+943  Calochortus tolmiei         | Tolmie's Star-tulip         | Tolmie Yıldız Lalesi
+944  Calylophus hartwegii        | Hartweg's Evening Primrose  | Hartweg Akşam Çuhaçiçeği
+945  Chaerophyllum tainturieri   | Hairyfruit Chervil          | Tüylü Meyveli Frenk Maydanozu
+946  Cirsium altissimum          | Tall Thistle                | Uzun Boylu Devedikeni
+947  Cirsium horridulum          | Bristly Thistle             | Dikenli Devedikeni
+948  Cirsium texanum             | Texas Thistle               | Teksas Devedikenesi
+949  Diervilla sessilifolia      | Southern Bush Honeysuckle   | Güney Çalı Hanımeli
+950  Acacia berlandieri          | Guajillo                    | Guajillo Akasyası
+951  Elephantopus elatus         | Tall Elephant's Foot        | Uzun Fil Ayağı
+952  Alocasia cucullata          | Chinese Taro                | Çin Göleği
+953  Acacia redolens             | —                           | —
+954  Acacia rigidula             | Blackbrush Acacia           | Siyah Fırça Akasyası
+955  Hackelia velutina           | Velvet Stickseed            | Kadife Yapışkan Tohum
+956  Haplophyton crooksii        | Cockroach Plant             | Hamamböceği Bitkisi
+957  Aextoxicon punctatum        | Olivillo                    | Olivillo
+958  Lithops aucampiae           | Aucamp's Living Stone       | Aucamp Yaşayan Taşı
+959  Lithops olivacea            | Olive Living Stone          | Zeytin Yaşayan Taşı
+960  Cyrtanthus elatus           | Vallota                     | Vallota
+961  Guatteria aeruginosa        | —                           | —
+962  Dischidia ovata             | Watermelon Dischidia        | Karpuz Diskidyası
+963  Trachelospermum asiaticum   | Asian Jasmine               | Asya Yasemini
+964  Alocasia baginda            | Dragon Scale Alocasia       | Ejderha Pullu Alokasya
+965  Alocasia lauterbachiana     | —                           | —
+966  Alocasia reginula           | Black Velvet Alocasia       | Siyah Kadife Alokasya
+967  Alocasia wentii             | —                           | —
+968  Alocasia zebrina            | Zebra Alocasia              | Zebra Alokasyası
+969  Anthurium clarinervium      | Velvet Cardboard Anthurium  | Kadife Karton Anturyum
+970  Anthurium faustomirandae    | Faustino's Giant Anthurium  | —
+971  Anthurium salvinii          | —                           | —
+972  Anthurium schlechtendalii   | —                           | —
+973  Anthurium veitchii          | King Anthurium              | Kral Anturyum
+974  Anthurium warocqueanum      | Queen Anthurium             | Kraliçe Anturyum
+975  Wodyetia bifurcata          | Foxtail Palm                | Tilki Kuyruğu Palmiyesi
+976  Cereus forbesii             | Silver Torch Cactus         | Gümüş Meşale Kaktüsü
+977  Cereus uruguayanus          | Uruguayan Cereus            | Uruguay Sereüsü
+978  Coryphantha elephantidens   | Elephant Tooth Cactus       | Fil Dişi Kaktüsü
+979  Pilosocereus chrysostele    | —                           | —
+980  Pilosocereus pachycladus    | Blue Torch Cactus           | Mavi Meşale Kaktüsü
+981  Selenicereus anthonyanus    | Fishbone Cactus             | Balık Kılçığı Kaktüsü
+982  Stenocactus multicostatus   | Brain Cactus                | Beyin Kaktüsü
+983  Tephrocactus geometricus    | —                           | —
+984  Pterocephalus perennis      | Perennial Scabious          | Çok Yıllık Uyuz Otu
+985  Maytenus ilicifolia         | Holy Thorn                  | Kutsal Diken
+986  Cyanotis somaliensis        | Pussy Ears                  | Kedi Kulakları
+987  Tradescantia x andersoniana | Spiderwort                  | Örümcek Otu
+988  Tradescantia sillamontana   | White Velvet                | Beyaz Kadife
+989  Cirsium palustre            | Marsh Thistle               | Bataklık Devedikenesi
+990  Erechtites minima           | —                           | —
+991  Lactuca alpina              | Alpine Blue Sow-thistle     | Alp Marulu
+992  Leptinella potentillina     | —                           | —
+993  Leucophyta brownii          | Cushion Bush                | Yastık Çalısı
+994  Melampodium divaricatum     | —                           | —
+995  Othonna capensis            | Little Pickles              | Küçük Turşular
+996  Rhodanthe chlorocephala     | Pink Paper Daisy            | Pembe Kağıt Papatyası
+997  Tagetes lemmonii            | Copper Canyon Daisy         | Bakır Kanyon Papatyası
+998  Tagetes lunulata            | —                           | —
+999  Sedum adolphii              | Golden Sedum                | Altın Damkoruğu
+1000 Sedum allantoides           | —                           | —
+1001 Sedum burrito               | Burro's Tail                | Eşek Kuyruğu
+1002 Sedum clavatum              | —                           | —
+1003 Sedum compressum            | —                           | —
+1004 Sedum cyaneum               | Blue Stonecrop              | Mavi Damkoruğu
+1005 Sedum decumbens             | Trailing Stonecrop          | Sürünen Damkoruğu
+1006 Sedum furfuraceum           | —                           | —
+1007 Sedum hernandezii           | —                           | —
+1008 Sedum japonicum             | Japanese Stonecrop          | Japon Damkoruğu
+1009 Sedum makinoi               | Makinoi Stonecrop           | Makinoi Damkoruğu
+1010 Sedum nussbaumerianum       | Coppertone Stonecrop        | Bakır Tonu Damkoruğu
+1011 Sedum praealtum             | Shrubby Stonecrop           | Çalılı Damkoruğu
+1012 Sedum rubrotinctum          | Christmas Cheer             | Noel Sevinci
+1013 Uncinia rubra               | Red Hook Sedge              | Kırmızı Çengel Çimi
+1014 Empetrum rubrum             | Red Crowberry               | Kırmızı Kartal Mersini
+1015 Acalypha macrostachya       | —                           | —
+1016 Pelargonium echinatum       | Cactus Geranium             | Kaktüs Sardunyası
+1017 Pelargonium × hortorum      | Garden Geranium             | Bahçe Sardunyası
+1018 Pelargonium sidoides        | African Geranium            | Afrika Sardunyası
+1019 Pelargonium tomentosum      | Peppermint Geranium         | Nane Sardunyası
+1020 Lavandula canariensis       | Canary Islands Lavender     | Kanarya Adaları Lavantası
+1021 Acacia auriculiformis       | Earleaf Acacia              | Kulaklı Akasya
+1022 Acacia brevispica           | Wait-a-bit Thorn            | Dur-Bekle Dikeni
+1023 Acacia caven                | Espinillo                   | —
+1024 Acacia cognata              | Bower Wattle                | Çardak Akasyası
+1025 Acacia confluens            | —                           | —
+1026 Acacia podalyriifolia       | Queensland Silver Wattle    | Queensland Gümüş Akasya
+1027 Acacia saligna              | Blue-leaved Wattle          | Mavi Yapraklı Akasya
+1028 Dalbergia retusa            | Cocobolo                    | Kokobolo
+1029 Lupinus nootkatensis        | Nootka Lupin                | Nootka Acı Bakla
+1030 Prosopis pallida            | Huarango                    | Huarango
+1031 Cedrela fissilis            | Argentine Cedar             | Arjantin Sediri
+1032 Nepenthes mirabilis         | Tropical Pitcher Plant      | Tropikal Sürahi Bitkisi
+1033 Nepenthes × neglecta        | —                           | —
+1034 Nothofagus betuloides       | Magellan's Beech            | Magellan Kayını
+1035 Nothofagus dombeyi          | Coihue Beech                | Koiwe Kayını
+1036 Nothofagus nitida           | Patagonian Beech            | Patagonya Kayını
+1037 Nymphaea rubra              | Red Indian Waterlily        | Kırmızı Hint Nilüferi
+1038 Dendrobium anosmum          | Hono Hono Orchid            | —
+1039 Dendrobium kingianum        | Rock Orchid                 | Kaya Orkidesi
+1040 Dendrobium munificum        | —                           | —
+1041 Dendrobium thyrsiflorum     | White Crane Orchid          | Beyaz Turna Orkidesi
+1042 Dendrobium victoriae-reginae| Blue Orchid                 | Mavi Orkide
+1043 Erycina pusilla             | —                           | —
+1044 Adlumia fungosa             | Climbing Fumitory           | Tırmanıcı Şahtere
+1045 Peperomia albovittata       | Ivory Ripple Peperomia      | —
+1046 Peperomia clusiifolia       | Red Edge Peperomia          | Kırmızı Kenarlı Peperomu
+1047 Peperomia columella         | Column Peperomia            | Sütun Peperomu
+1048 Peperomia ferreyrae         | Happy Bean                  | Mutlu Fasulye
+1049 Peperomia graveolens        | Ruby Glow Peperomia         | Yakut Parlak Peperomu
+1050 Peperomia maculosa          | Spotted Peperomia           | Benekli Peperomu
+1051 Peperomia pecuniifolia      | —                           | —
+1052 Peperomia polybotrya        | Coin-leaf Peperomia         | Madeni Para Yapraklı Peperomu
+1053 Peperomia prostrata         | String of Turtles           | Kaplumbağa Dizisi
+1054 Peperomia tetragona         | —                           | —
+1055 Peperomia verticillata      | Red Log Peperomia           | Kırmızı Kütük Peperomu
+1056 Hebe andersonii             | Anderson's Hebe             | Anderson Hebesi
+1057 Lomatia ferruginea          | —                           | —
+1058 Anemone pavoniana           | Peacock Anemone             | Tavus Kuşu Anemonu
+1059 Anemone tomentosa           | Grape-leaved Anemone        | Asma Yapraklı Anemon
+1060 Hepatica nobilis            | Liverleaf                   | Hepatika
+1061 Fragaria × ananassa         | Garden Strawberry           | Bahçe Çileği
+1062 Margaritopsis haematocarpa  | —                           | —
+1063 Angostura granulosa         | —                           | —
+1064 Smilax excelsa              | Tall Smilax                 | Yüksek Gıcır
+1065 Coussapoa villosa           | —                           | —
+1066 Cyphostemma cyphopetalum    | —                           | —
+1067 Cyphostemma juttae          | Tree Grape                  | Ağaç Üzümü
+1068 Cyphostemma serpens         | —                           | —
+1069 Nepenthes alata             | Winged Pitcher Plant        | Kanatlı Sürahi Bitkisi
+1070 Nepenthes truncata          | Truncate Pitcher Plant      | Kesik Sürahi Bitkisi
+1071 Lavandula spp.              | Lavender                    | Lavanta
+1072 Cymbalaria muralis          | Ivy-leaved Toadflax         | Sarmaşık Yapraklı Koyungözü
+1073 Aphelandra aurantiaca       | Orange Aphelandra           | Turuncu Aphelandra
+1074 Guatteria dolichopoda       | —                           | —
+1075 Stenanona costaricensis     | —                           | —
+1076 Schefflera morototoni       | —                           | —
+1077 Bourreria andrieuxii        | —                           | —
+1078 Bourreria costaricensis     | —                           | —
+1079 Alibertia edulis            | Marmelada                   | Marmelad Ağacı
+1080 Acacia senegalensis         | Gum Arabic                  | Arap Zamkı
