@@ -1,5 +1,6 @@
 # Multi-Model Plant & Tree Identification and Benchmarking Platform
 ### Programmatic 10-View Test-Time Augmentation (TTA) and Comparative Architecture Analysis
+Reference repository: https://github.com/plantnet/PlantNet-300K
 
 **Authors:** Halil Akbaş & Karahan Ballı  
 **Academic Presentation & Benchmarking Project**  
