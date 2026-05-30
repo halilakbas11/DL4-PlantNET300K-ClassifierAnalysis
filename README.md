@@ -3,6 +3,7 @@
 **Yazarlar:** Halil Akbaş & Karahan Ballı  
 **Tarih:** Mayıs 2026  
 **Teknoloji Stack'i:** PyTorch, Flask, Timm, Test-Time Augmentation (TTA), Python  
+**GitHub Repository:** [DL4-PlantNET300K-ClassifierAnalysis](https://github.com/halilakbas11/DL4-PlantNET300K-ClassifierAnalysis)  
 **Jester LLM:** Claude Sonnet 4.6
 
 ---

@@ -19,6 +19,9 @@
 # Exclude visual slide assets folder
 Slide-images/
 
+# Exclude original raw dataset directory
+PlantNet-300K/
+
 # Exclude dynamically converted images (webp-to-png helper artifacts)
 *_converted.png
 
