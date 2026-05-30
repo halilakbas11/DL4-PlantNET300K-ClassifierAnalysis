@@ -140,24 +140,7 @@ DLP4/
 ---
 
 ## 7. Programmatic Presentation Slide Deck
-
-The included `generate_pptx.py` compiled a highly-polished, widescreen (16:9) 13-slide presentation (`dl4sunumu_guncel.pptx`) with a custom forest-green corporate theme, container cards, and statistics metrics:
-
-*   **Slide 1**: Title & Cover (Platform Overview)
-*   **Slide 2**: Motivation & Problem Definition
-*   **Slide 3**: Pl@ntNet Platform & Pl@ntNet-300K Dataset Curations
-*   **Slide 4**: Class Imbalance & The Lorentz Curve Analytes
-*   **Slide 5**: Pre-trained GitHub Weights Zoo & Our Core Contributions
-*   **Slide 6**: Vision Transformer (ViT) Deep-Dive Architecture
-*   **Slide 7**: Inference Pipeline & 10-View Test-Time Augmentation (TTA)
-*   **Slide 8**: Flask Web Architecture & Dynamic Memory Caching
-*   **Slide 9**: Qualitative Case Study 1: Strawberry Tree (*Arbutus unedo*)
-*   **Slide 10**: Qualitative Case Study 2: Fever Tree (*Acacia xanthophloea*)
-*   **Slide 11**: Model Zoo Comparative Report (Accuracy vs. Latency/Size)
-*   **Slide 12**: Challenges, Closed-Set Limits & Visual Ambiguities
-*   **Slide 13**: Outro, Future Extensions (ONNX, TFLite, GPS GIS filtering)
-
----
+We made a slide for the project. We didn't share it.
 
 ## 8. Installation & Setup
 
