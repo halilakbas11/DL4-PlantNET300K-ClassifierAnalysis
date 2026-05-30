@@ -164,9 +164,3 @@ We made a slide for the project. We didn't share it.
     python app.py
     ```
     Access the UI at `http://127.0.0.1:5000/`.
-
-5.  **Compile the Slides (Optional)**:
-    ```bash
-    python generate_pptx.py
-    ```
-    This generates `dl4sunumu.pptx` (or `dl4sunumu_guncel.pptx` if PowerPoint is open).
