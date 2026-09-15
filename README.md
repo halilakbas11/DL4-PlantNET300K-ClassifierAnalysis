@@ -20,7 +20,6 @@ Deep learning has revolutionized botanical taxonomy, enabling instant species re
 2.  **Memory-Efficient Dynamic Caching**: An on-demand model manager in Flask that loads weights into RAM only when selected via the interface, preventing server memory overflow.
 3.  **10-View Test-Time Augmentation (TTA)**: An advanced server-side inference pipeline that feeds 10 crops/flips of a user upload to the model, averaging softmax logits to eliminate framing noise.
 4.  **Bilingual Taxonomy Lookup**: A client-side translation engine that parses `flower-names.txt` to translate scientific Latin names into Turkish and English common names on the fly.
-5.  **Academic Slide Deck Generator**: A programmatic PowerPoint compiler (`generate_pptx.py`) that exports a 13-slide premium widescreen deck with built-in WebP-to-PNG image helpers.
 
 ---
 
